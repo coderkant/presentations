@@ -1,0 +1,50 @@
+
+PYTHON;
+	Learn X in Y.
+	list - range() , string , 
+	list operations - deletion , addition, append , extend, concatenation , slicing, sorting,  in , list comprehension.
+			','.join() , enumerate , zip.
+	tuple -> list like but immutable.
+	dictionary
+	set -> to get unique out of a list , intersection union. (actually useful)
+	
+	file io 
+
+	function definition - lambda functions
+
+	higher order functions - map,reduce,filter
+	
+	regex and data cleaning.
+
+	Jupyter notebook shortcuts and functionalities - %time , photo, interactives. 
+
+	Assingment - develop a complete SI dashboard in jupyter.
+
+PANDAS
+	import pandas as pd
+	dir(pd)
+	query the dataframe on a condition. (logical indexing)
+	numerical indexing.
+	calculating values - apply function. Examples from shareInsights.
+
+	create index on dataframe. MultiIndex. stack, pivot.
+	merge , join and concatenates.
+	datetime index. frequency , infer_frequency.
+	plotting.
+
+	dealing with missing values. - ckd example.
+	Readable/maintainable code - Example of multiple lines of code condensed to single line.
+	
+	
+slides;
+    What is python / python2/3 , anaconda etc.
+	Everything in object in python. Even funtions. myfunc.__doc__
+	Python syntax and jupyter features. (link to jupyter cheatsheet).
+		%time, multiline output, 
+	Great use for yield. (maybe class.)
+	pickle. api_level= 2/3
+	monkey-patch.
+
+
+	Goals- Make aware of capabilities of language to avoid re-inventing wheel, doing things badly,
+			etc. 

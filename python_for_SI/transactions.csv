@@ -1,0 +1,1001 @@
+accno,username,year,month,transaction_date,posted_date,amount,transaction_type,merchant,mcc_category
+500280615,Caitlin Ahr,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+500280615,Caitlin Ahr,2015,5,5/2/2015 23:45,5/2/2015 23:45,60,debit,internet,utility
+500280615,Caitlin Ahr,2015,5,5/3/2015 10:45,5/3/2015 10:45,40,debit,electricity,utility
+500280615,Caitlin Ahr,2015,5,5/3/2015 17:15,5/3/2015 17:15,104,debit,Jewel,grocery
+500280615,Caitlin Ahr,2015,5,5/3/2015 17:15,5/3/2015 17:15,80,debit,iNox,entertainment
+500280615,Caitlin Ahr,2015,5,5/6/2015 9:45,5/6/2015 9:45,101,debit,Food Bazaar,grocery
+500280615,Caitlin Ahr,2015,5,5/6/2015 17:15,5/6/2015 17:15,40,debit,Starbucks,entertainment
+500280615,Caitlin Ahr,2015,5,5/7/2015 23:45,5/7/2015 23:45,111,debit,Coscto,grocery
+500280615,Caitlin Ahr,2015,5,5/10/2015 19:45,5/10/2015 19:45,70,debit,Broncos,entertainment
+500280615,Caitlin Ahr,2015,5,5/11/2015 17:15,5/11/2015 17:15,40,debit,Starbucks,entertainment
+500280615,Caitlin Ahr,2015,5,5/14/2015 9:45,5/14/2015 9:45,80,debit,iNox,entertainment
+500280615,Caitlin Ahr,2015,5,5/14/2015 9:45,5/14/2015 9:45,70,debit,Broncos,entertainment
+500280615,Caitlin Ahr,2015,5,5/14/2015 23:45,5/14/2015 23:45,70,debit,Broncos,entertainment
+500280615,Caitlin Ahr,2015,5,5/16/2015 17:15,5/16/2015 17:15,40,debit,Starbucks,entertainment
+500280615,Caitlin Ahr,2015,5,5/18/2015 23:45,5/18/2015 23:45,40,debit,Starbucks,entertainment
+500280615,Caitlin Ahr,2015,5,5/19/2015 23:45,5/19/2015 23:45,70,debit,Broncos,entertainment
+500280615,Caitlin Ahr,2015,5,5/19/2015 9:45,5/19/2015 9:45,16,debit,Travel,entertainment
+500280615,Caitlin Ahr,2015,5,5/20/2015 9:45,5/20/2015 9:45,70,debit,Broncos,entertainment
+500280615,Caitlin Ahr,2015,5,5/22/2015 19:45,5/22/2015 19:45,118,debit,sainsbury,grocery
+500280615,Caitlin Ahr,2015,5,5/22/2015 23:45,5/22/2015 23:45,16,debit,Travel,entertainment
+500280615,Caitlin Ahr,2015,5,5/24/2015 19:45,5/24/2015 19:45,16,debit,Travel,entertainment
+500280615,Caitlin Ahr,2015,5,5/25/2015 17:15,5/25/2015 17:15,40,debit,Starbucks,entertainment
+500280615,Caitlin Ahr,2015,5,5/27/2015 19:45,5/27/2015 19:45,113,debit,savings account,savings
+500280615,Caitlin Ahr,2015,5,5/28/2015 19:45,5/28/2015 19:45,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/1/2015 23:45,5/1/2015 23:45,2916,credit,Company,salary
+600610996,Denis Ahr,2015,5,5/2/2015 9:45,5/2/2015 9:45,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/2/2015 23:45,5/2/2015 23:45,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/4/2015 9:45,5/4/2015 9:45,40,debit,electricity,utility
+600610996,Denis Ahr,2015,5,5/4/2015 23:45,5/4/2015 23:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/4/2015 9:45,5/4/2015 9:45,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/5/2015 10:45,5/5/2015 10:45,60,debit,internet,utility
+600610996,Denis Ahr,2015,5,5/5/2015 23:45,5/5/2015 23:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/5/2015 10:45,5/5/2015 10:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/5/2015 10:45,5/5/2015 10:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/6/2015 19:45,5/6/2015 19:45,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/7/2015 9:45,5/7/2015 9:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/7/2015 19:45,5/7/2015 19:45,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/10/2015 9:45,5/10/2015 9:45,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/10/2015 17:15,5/10/2015 17:15,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/11/2015 10:45,5/11/2015 10:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/11/2015 17:15,5/11/2015 17:15,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/11/2015 23:45,5/11/2015 23:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/12/2015 23:45,5/12/2015 23:45,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/13/2015 9:45,5/13/2015 9:45,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/13/2015 10:45,5/13/2015 10:45,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/13/2015 17:15,5/13/2015 17:15,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/14/2015 19:45,5/14/2015 19:45,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/14/2015 9:45,5/14/2015 9:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/16/2015 10:45,5/16/2015 10:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/16/2015 23:45,5/16/2015 23:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/16/2015 23:45,5/16/2015 23:45,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/17/2015 19:45,5/17/2015 19:45,111,debit,Coscto,grocery
+600610996,Denis Ahr,2015,5,5/17/2015 17:15,5/17/2015 17:15,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/17/2015 19:45,5/17/2015 19:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/18/2015 17:15,5/18/2015 17:15,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/22/2015 10:45,5/22/2015 10:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/22/2015 19:45,5/22/2015 19:45,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/23/2015 9:45,5/23/2015 9:45,113,debit,sainsbury,grocery
+600610996,Denis Ahr,2015,5,5/23/2015 17:15,5/23/2015 17:15,70,debit,Broncos,entertainment
+600610996,Denis Ahr,2015,5,5/23/2015 17:15,5/23/2015 17:15,80,debit,iNox,entertainment
+600610996,Denis Ahr,2015,5,5/24/2015 10:45,5/24/2015 10:45,108,debit,Food Bazaar,grocery
+600610996,Denis Ahr,2015,5,5/26/2015 17:15,5/26/2015 17:15,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/27/2015 10:45,5/27/2015 10:45,248,debit,savings account,savings
+600610996,Denis Ahr,2015,5,5/28/2015 10:45,5/28/2015 10:45,40,debit,Starbucks,entertainment
+600610996,Denis Ahr,2015,5,5/28/2015 9:45,5/28/2015 9:45,70,debit,Broncos,entertainment
+500580240,Laurie Ahr,2015,5,5/1/2015 19:45,5/1/2015 19:45,1666,credit,Company,salary
+500580240,Laurie Ahr,2015,5,5/2/2015 10:45,5/2/2015 10:45,80,debit,iNox,entertainment
+500580240,Laurie Ahr,2015,5,5/5/2015 19:45,5/5/2015 19:45,40,debit,electricity,utility
+500580240,Laurie Ahr,2015,5,5/5/2015 19:45,5/5/2015 19:45,60,debit,internet,utility
+500580240,Laurie Ahr,2015,5,5/7/2015 10:45,5/7/2015 10:45,19,debit,Travel,entertainment
+500580240,Laurie Ahr,2015,5,5/9/2015 19:45,5/9/2015 19:45,19,debit,Travel,entertainment
+500580240,Laurie Ahr,2015,5,5/10/2015 9:45,5/10/2015 9:45,19,debit,Travel,entertainment
+500580240,Laurie Ahr,2015,5,5/15/2015 9:45,5/15/2015 9:45,19,debit,Travel,entertainment
+500580240,Laurie Ahr,2015,5,5/16/2015 19:45,5/16/2015 19:45,110,debit,sainsbury,grocery
+500580240,Laurie Ahr,2015,5,5/16/2015 23:45,5/16/2015 23:45,11,debit,savings account,savings
+500580240,Laurie Ahr,2015,5,5/17/2015 23:45,5/17/2015 23:45,19,debit,Travel,entertainment
+500580240,Laurie Ahr,2015,5,5/20/2015 17:15,5/20/2015 17:15,19,debit,Travel,entertainment
+500580240,Laurie Ahr,2015,5,5/20/2015 19:45,5/20/2015 19:45,80,debit,iNox,entertainment
+500580240,Laurie Ahr,2015,5,5/21/2015 9:45,5/21/2015 9:45,80,debit,iNox,entertainment
+500580240,Laurie Ahr,2015,5,5/25/2015 10:45,5/25/2015 10:45,19,debit,Travel,entertainment
+500580240,Laurie Ahr,2015,5,5/26/2015 10:45,5/26/2015 10:45,19,debit,Travel,entertainment
+500580240,Laurie Ahr,2015,5,5/27/2015 10:45,5/27/2015 10:45,118,debit,Jewel,grocery
+500580240,Laurie Ahr,2015,5,5/28/2015 19:45,5/28/2015 19:45,114,debit,Jewel,grocery
+500580240,Laurie Ahr,2015,5,5/28/2015 17:15,5/28/2015 17:15,612,debit,savings account,savings
+940226,Jessie Ahr,2015,5,5/1/2015 17:15,5/1/2015 17:15,2083,credit,Company,salary
+940226,Jessie Ahr,2015,5,5/2/2015 19:45,5/2/2015 19:45,40,debit,electricity,utility
+940226,Jessie Ahr,2015,5,5/3/2015 23:45,5/3/2015 23:45,80,debit,iNox,entertainment
+940226,Jessie Ahr,2015,5,5/3/2015 9:45,5/3/2015 9:45,40,debit,Starbucks,entertainment
+940226,Jessie Ahr,2015,5,5/4/2015 10:45,5/4/2015 10:45,70,debit,Broncos,entertainment
+940226,Jessie Ahr,2015,5,5/5/2015 23:45,5/5/2015 23:45,60,debit,internet,utility
+940226,Jessie Ahr,2015,5,5/7/2015 23:45,5/7/2015 23:45,70,debit,Broncos,entertainment
+940226,Jessie Ahr,2015,5,5/9/2015 10:45,5/9/2015 10:45,80,debit,iNox,entertainment
+940226,Jessie Ahr,2015,5,5/11/2015 17:15,5/11/2015 17:15,70,debit,Broncos,entertainment
+940226,Jessie Ahr,2015,5,5/14/2015 9:45,5/14/2015 9:45,70,debit,Broncos,entertainment
+940226,Jessie Ahr,2015,5,5/16/2015 19:45,5/16/2015 19:45,70,debit,Broncos,entertainment
+940226,Jessie Ahr,2015,5,5/17/2015 19:45,5/17/2015 19:45,114,debit,Coscto,grocery
+940226,Jessie Ahr,2015,5,5/18/2015 23:45,5/18/2015 23:45,40,debit,Starbucks,entertainment
+940226,Jessie Ahr,2015,5,5/19/2015 10:45,5/19/2015 10:45,116,debit,Jewel,grocery
+940226,Jessie Ahr,2015,5,5/20/2015 23:45,5/20/2015 23:45,120,debit,Food Bazaar,grocery
+940226,Jessie Ahr,2015,5,5/20/2015 10:45,5/20/2015 10:45,40,debit,Starbucks,entertainment
+940226,Jessie Ahr,2015,5,5/24/2015 9:45,5/24/2015 9:45,70,debit,Broncos,entertainment
+940226,Jessie Ahr,2015,5,5/27/2015 9:45,5/27/2015 9:45,116,debit,sainsbury,grocery
+940226,Jessie Ahr,2015,5,5/28/2015 17:15,5/28/2015 17:15,606,debit,savings account,savings
+940226,Jessie Ahr,2015,5,5/28/2015 9:45,5/28/2015 9:45,70,debit,Broncos,entertainment
+300730045,Brittany Ahr,2015,5,5/1/2015 19:45,5/1/2015 19:45,1666,credit,Company,salary
+300730045,Brittany Ahr,2015,5,5/2/2015 23:45,5/2/2015 23:45,80,debit,iNox,entertainment
+300730045,Brittany Ahr,2015,5,5/3/2015 9:45,5/3/2015 9:45,40,debit,electricity,utility
+300730045,Brittany Ahr,2015,5,5/4/2015 17:15,5/4/2015 17:15,60,debit,internet,utility
+300730045,Brittany Ahr,2015,5,5/5/2015 17:15,5/5/2015 17:15,10,debit,savings account,savings
+300730045,Brittany Ahr,2015,5,5/6/2015 19:45,5/6/2015 19:45,10,debit,savings account,savings
+300730045,Brittany Ahr,2015,5,5/9/2015 10:45,5/9/2015 10:45,105,debit,Coscto,grocery
+300730045,Brittany Ahr,2015,5,5/10/2015 10:45,5/10/2015 10:45,103,debit,sainsbury,grocery
+300730045,Brittany Ahr,2015,5,5/13/2015 19:45,5/13/2015 19:45,103,debit,sainsbury,grocery
+300730045,Brittany Ahr,2015,5,5/13/2015 9:45,5/13/2015 9:45,17,debit,Travel,entertainment
+300730045,Brittany Ahr,2015,5,5/21/2015 17:15,5/21/2015 17:15,80,debit,iNox,entertainment
+300730045,Brittany Ahr,2015,5,5/22/2015 10:45,5/22/2015 10:45,107,debit,Jewel,grocery
+300730045,Brittany Ahr,2015,5,5/23/2015 19:45,5/23/2015 19:45,108,debit,Coscto,grocery
+300730045,Brittany Ahr,2015,5,5/26/2015 23:45,5/26/2015 23:45,80,debit,iNox,entertainment
+300730045,Brittany Ahr,2015,5,5/28/2015 17:15,5/28/2015 17:15,520,debit,savings account,savings
+400550149,Joseph Ahr,2015,5,5/1/2015 9:45,5/1/2015 9:45,1666,credit,Company,salary
+400550149,Joseph Ahr,2015,5,5/2/2015 10:45,5/2/2015 10:45,60,debit,internet,utility
+400550149,Joseph Ahr,2015,5,5/3/2015 17:15,5/3/2015 17:15,40,debit,electricity,utility
+400550149,Joseph Ahr,2015,5,5/4/2015 19:45,5/4/2015 19:45,70,debit,Broncos,entertainment
+400550149,Joseph Ahr,2015,5,5/6/2015 9:45,5/6/2015 9:45,70,debit,Broncos,entertainment
+400550149,Joseph Ahr,2015,5,5/8/2015 19:45,5/8/2015 19:45,109,debit,sainsbury,grocery
+400550149,Joseph Ahr,2015,5,5/13/2015 10:45,5/13/2015 10:45,70,debit,Broncos,entertainment
+400550149,Joseph Ahr,2015,5,5/16/2015 17:15,5/16/2015 17:15,70,debit,Broncos,entertainment
+400550149,Joseph Ahr,2015,5,5/18/2015 23:45,5/18/2015 23:45,80,debit,iNox,entertainment
+400550149,Joseph Ahr,2015,5,5/19/2015 17:15,5/19/2015 17:15,40,debit,Starbucks,entertainment
+400550149,Joseph Ahr,2015,5,5/21/2015 23:45,5/21/2015 23:45,111,debit,Jewel,grocery
+400550149,Joseph Ahr,2015,5,5/22/2015 9:45,5/22/2015 9:45,80,debit,iNox,entertainment
+400550149,Joseph Ahr,2015,5,5/25/2015 17:15,5/25/2015 17:15,40,debit,Starbucks,entertainment
+400550149,Joseph Ahr,2015,5,5/26/2015 19:45,5/26/2015 19:45,538,debit,savings account,savings
+400540864,Reza Ahrabi,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+400540864,Reza Ahrabi,2015,5,5/2/2015 10:45,5/2/2015 10:45,60,debit,internet,utility
+400540864,Reza Ahrabi,2015,5,5/2/2015 19:45,5/2/2015 19:45,80,debit,iNox,entertainment
+400540864,Reza Ahrabi,2015,5,5/4/2015 19:45,5/4/2015 19:45,40,debit,electricity,utility
+400540864,Reza Ahrabi,2015,5,5/4/2015 23:45,5/4/2015 23:45,80,debit,iNox,entertainment
+400540864,Reza Ahrabi,2015,5,5/5/2015 17:15,5/5/2015 17:15,70,debit,Broncos,entertainment
+400540864,Reza Ahrabi,2015,5,5/8/2015 17:15,5/8/2015 17:15,40,debit,Starbucks,entertainment
+400540864,Reza Ahrabi,2015,5,5/9/2015 23:45,5/9/2015 23:45,40,debit,Starbucks,entertainment
+400540864,Reza Ahrabi,2015,5,5/11/2015 9:45,5/11/2015 9:45,70,debit,Broncos,entertainment
+400540864,Reza Ahrabi,2015,5,5/13/2015 19:45,5/13/2015 19:45,70,debit,Broncos,entertainment
+400540864,Reza Ahrabi,2015,5,5/18/2015 17:15,5/18/2015 17:15,70,debit,Broncos,entertainment
+400540864,Reza Ahrabi,2015,5,5/20/2015 23:45,5/20/2015 23:45,70,debit,Broncos,entertainment
+400540864,Reza Ahrabi,2015,5,5/20/2015 17:15,5/20/2015 17:15,80,debit,iNox,entertainment
+400540864,Reza Ahrabi,2015,5,5/24/2015 23:45,5/24/2015 23:45,113,debit,Food Bazaar,grocery
+400540864,Reza Ahrabi,2015,5,5/26/2015 10:45,5/26/2015 10:45,80,debit,iNox,entertainment
+400540864,Reza Ahrabi,2015,5,5/26/2015 23:45,5/26/2015 23:45,80,debit,iNox,entertainment
+400540864,Reza Ahrabi,2015,5,5/28/2015 17:15,5/28/2015 17:15,106,debit,Jewel,grocery
+400540864,Reza Ahrabi,2015,5,5/28/2015 23:45,5/28/2015 23:45,336,debit,savings account,savings
+800940780,David Ahrberg,2015,5,5/1/2015 23:45,5/1/2015 23:45,1666,credit,Company,salary
+800940780,David Ahrberg,2015,5,5/2/2015 19:45,5/2/2015 19:45,80,debit,iNox,entertainment
+800940780,David Ahrberg,2015,5,5/3/2015 23:45,5/3/2015 23:45,40,debit,Starbucks,entertainment
+800940780,David Ahrberg,2015,5,5/5/2015 23:45,5/5/2015 23:45,40,debit,electricity,utility
+800940780,David Ahrberg,2015,5,5/5/2015 19:45,5/5/2015 19:45,60,debit,internet,utility
+800940780,David Ahrberg,2015,5,5/6/2015 10:45,5/6/2015 10:45,104,debit,Coscto,grocery
+800940780,David Ahrberg,2015,5,5/6/2015 9:45,5/6/2015 9:45,80,debit,iNox,entertainment
+800940780,David Ahrberg,2015,5,5/7/2015 9:45,5/7/2015 9:45,20,debit,Travel,entertainment
+800940780,David Ahrberg,2015,5,5/7/2015 19:45,5/7/2015 19:45,70,debit,Broncos,entertainment
+800940780,David Ahrberg,2015,5,5/10/2015 23:45,5/10/2015 23:45,40,debit,Starbucks,entertainment
+800940780,David Ahrberg,2015,5,5/12/2015 19:45,5/12/2015 19:45,70,debit,Broncos,entertainment
+800940780,David Ahrberg,2015,5,5/17/2015 19:45,5/17/2015 19:45,40,debit,Starbucks,entertainment
+800940780,David Ahrberg,2015,5,5/18/2015 23:45,5/18/2015 23:45,20,debit,Travel,entertainment
+800940780,David Ahrberg,2015,5,5/19/2015 17:15,5/19/2015 17:15,113,debit,Food Bazaar,grocery
+800940780,David Ahrberg,2015,5,5/20/2015 23:45,5/20/2015 23:45,70,debit,Broncos,entertainment
+800940780,David Ahrberg,2015,5,5/20/2015 10:45,5/20/2015 10:45,20,debit,Travel,entertainment
+800940780,David Ahrberg,2015,5,5/22/2015 17:15,5/22/2015 17:15,20,debit,Travel,entertainment
+800940780,David Ahrberg,2015,5,5/24/2015 10:45,5/24/2015 10:45,112,debit,Jewel,grocery
+800940780,David Ahrberg,2015,5,5/24/2015 17:15,5/24/2015 17:15,80,debit,iNox,entertainment
+800940780,David Ahrberg,2015,5,5/25/2015 9:45,5/25/2015 9:45,70,debit,Broncos,entertainment
+800940780,David Ahrberg,2015,5,5/25/2015 23:45,5/25/2015 23:45,40,debit,Starbucks,entertainment
+800940780,David Ahrberg,2015,5,5/26/2015 23:45,5/26/2015 23:45,70,debit,Broncos,entertainment
+800940780,David Ahrberg,2015,5,5/27/2015 17:15,5/27/2015 17:15,117,debit,Coscto,grocery
+800940780,David Ahrberg,2015,5,5/27/2015 17:15,5/27/2015 17:15,112,debit,savings account,savings
+100120984,Daniel Ahrberg,2015,5,5/1/2015 23:45,5/1/2015 23:45,1666,credit,Company,salary
+100120984,Daniel Ahrberg,2015,5,5/3/2015 23:45,5/3/2015 23:45,60,debit,internet,utility
+100120984,Daniel Ahrberg,2015,5,5/3/2015 19:45,5/3/2015 19:45,80,debit,iNox,entertainment
+100120984,Daniel Ahrberg,2015,5,5/5/2015 9:45,5/5/2015 9:45,40,debit,electricity,utility
+100120984,Daniel Ahrberg,2015,5,5/5/2015 10:45,5/5/2015 10:45,107,debit,sainsbury,grocery
+100120984,Daniel Ahrberg,2015,5,5/5/2015 10:45,5/5/2015 10:45,40,debit,Starbucks,entertainment
+100120984,Daniel Ahrberg,2015,5,5/8/2015 9:45,5/8/2015 9:45,80,debit,iNox,entertainment
+100120984,Daniel Ahrberg,2015,5,5/10/2015 17:15,5/10/2015 17:15,80,debit,iNox,entertainment
+100120984,Daniel Ahrberg,2015,5,5/15/2015 9:45,5/15/2015 9:45,70,debit,Broncos,entertainment
+100120984,Daniel Ahrberg,2015,5,5/20/2015 23:45,5/20/2015 23:45,40,debit,Starbucks,entertainment
+100120984,Daniel Ahrberg,2015,5,5/22/2015 17:15,5/22/2015 17:15,40,debit,Starbucks,entertainment
+100120984,Daniel Ahrberg,2015,5,5/22/2015 19:45,5/22/2015 19:45,80,debit,iNox,entertainment
+100120984,Daniel Ahrberg,2015,5,5/22/2015 19:45,5/22/2015 19:45,80,debit,iNox,entertainment
+100120984,Daniel Ahrberg,2015,5,5/23/2015 9:45,5/23/2015 9:45,108,debit,Food Bazaar,grocery
+100120984,Daniel Ahrberg,2015,5,5/26/2015 10:45,5/26/2015 10:45,675,debit,savings account,savings
+600880040,Nir Ahren,2015,5,5/1/2015 9:45,5/1/2015 9:45,2916,credit,Company,salary
+600880040,Nir Ahren,2015,5,5/3/2015 10:45,5/3/2015 10:45,40,debit,electricity,utility
+600880040,Nir Ahren,2015,5,5/3/2015 9:45,5/3/2015 9:45,80,debit,iNox,entertainment
+600880040,Nir Ahren,2015,5,5/4/2015 17:15,5/4/2015 17:15,117,debit,Jewel,grocery
+600880040,Nir Ahren,2015,5,5/5/2015 19:45,5/5/2015 19:45,60,debit,internet,utility
+600880040,Nir Ahren,2015,5,5/5/2015 9:45,5/5/2015 9:45,101,debit,Jewel,grocery
+600880040,Nir Ahren,2015,5,5/5/2015 19:45,5/5/2015 19:45,40,debit,Starbucks,entertainment
+600880040,Nir Ahren,2015,5,5/5/2015 19:45,5/5/2015 19:45,40,debit,Starbucks,entertainment
+600880040,Nir Ahren,2015,5,5/5/2015 10:45,5/5/2015 10:45,70,debit,Broncos,entertainment
+600880040,Nir Ahren,2015,5,5/8/2015 9:45,5/8/2015 9:45,80,debit,iNox,entertainment
+600880040,Nir Ahren,2015,5,5/8/2015 17:15,5/8/2015 17:15,70,debit,Broncos,entertainment
+600880040,Nir Ahren,2015,5,5/9/2015 9:45,5/9/2015 9:45,40,debit,Starbucks,entertainment
+600880040,Nir Ahren,2015,5,5/13/2015 17:15,5/13/2015 17:15,70,debit,Broncos,entertainment
+600880040,Nir Ahren,2015,5,5/15/2015 9:45,5/15/2015 9:45,118,debit,Jewel,grocery
+600880040,Nir Ahren,2015,5,5/15/2015 19:45,5/15/2015 19:45,80,debit,iNox,entertainment
+600880040,Nir Ahren,2015,5,5/16/2015 19:45,5/16/2015 19:45,80,debit,iNox,entertainment
+600880040,Nir Ahren,2015,5,5/18/2015 10:45,5/18/2015 10:45,101,debit,Coscto,grocery
+600880040,Nir Ahren,2015,5,5/19/2015 23:45,5/19/2015 23:45,40,debit,Starbucks,entertainment
+600880040,Nir Ahren,2015,5,5/21/2015 9:45,5/21/2015 9:45,40,debit,Starbucks,entertainment
+600880040,Nir Ahren,2015,5,5/23/2015 9:45,5/23/2015 9:45,110,debit,Coscto,grocery
+600880040,Nir Ahren,2015,5,5/24/2015 17:15,5/24/2015 17:15,40,debit,Starbucks,entertainment
+600880040,Nir Ahren,2015,5,5/26/2015 10:45,5/26/2015 10:45,1079,debit,savings account,savings
+600880040,Nir Ahren,2015,5,5/26/2015 17:15,5/26/2015 17:15,40,debit,Starbucks,entertainment
+600880040,Nir Ahren,2015,5,5/26/2015 9:45,5/26/2015 9:45,70,debit,Broncos,entertainment
+600880040,Nir Ahren,2015,5,5/27/2015 9:45,5/27/2015 9:45,110,debit,Coscto,grocery
+600880040,Nir Ahren,2015,5,5/28/2015 9:45,5/28/2015 9:45,40,debit,Starbucks,entertainment
+200740446,Erik Ahrend,2015,5,5/1/2015 23:45,5/1/2015 23:45,1666,credit,Company,salary
+200740446,Erik Ahrend,2015,5,5/3/2015 10:45,5/3/2015 10:45,40,debit,electricity,utility
+200740446,Erik Ahrend,2015,5,5/3/2015 10:45,5/3/2015 10:45,109,debit,Food Bazaar,grocery
+200740446,Erik Ahrend,2015,5,5/5/2015 19:45,5/5/2015 19:45,60,debit,internet,utility
+200740446,Erik Ahrend,2015,5,5/9/2015 19:45,5/9/2015 19:45,40,debit,Starbucks,entertainment
+200740446,Erik Ahrend,2015,5,5/10/2015 17:15,5/10/2015 17:15,80,debit,iNox,entertainment
+200740446,Erik Ahrend,2015,5,5/14/2015 10:45,5/14/2015 10:45,80,debit,iNox,entertainment
+200740446,Erik Ahrend,2015,5,5/15/2015 17:15,5/15/2015 17:15,118,debit,sainsbury,grocery
+200740446,Erik Ahrend,2015,5,5/17/2015 19:45,5/17/2015 19:45,104,debit,Food Bazaar,grocery
+200740446,Erik Ahrend,2015,5,5/17/2015 17:15,5/17/2015 17:15,40,debit,Starbucks,entertainment
+200740446,Erik Ahrend,2015,5,5/19/2015 19:45,5/19/2015 19:45,110,debit,Coscto,grocery
+200740446,Erik Ahrend,2015,5,5/23/2015 17:15,5/23/2015 17:15,80,debit,iNox,entertainment
+200740446,Erik Ahrend,2015,5,5/25/2015 23:45,5/25/2015 23:45,70,debit,Broncos,entertainment
+200740446,Erik Ahrend,2015,5,5/27/2015 9:45,5/27/2015 9:45,112,debit,Food Bazaar,grocery
+200740446,Erik Ahrend,2015,5,5/27/2015 19:45,5/27/2015 19:45,506,debit,savings account,savings
+30762,Bradley Ahrend,2015,5,5/1/2015 17:15,5/1/2015 17:15,2083,credit,Company,salary
+30762,Bradley Ahrend,2015,5,5/4/2015 23:45,5/4/2015 23:45,40,debit,electricity,utility
+30762,Bradley Ahrend,2015,5,5/4/2015 23:45,5/4/2015 23:45,60,debit,internet,utility
+30762,Bradley Ahrend,2015,5,5/6/2015 17:15,5/6/2015 17:15,70,debit,Broncos,entertainment
+30762,Bradley Ahrend,2015,5,5/6/2015 10:45,5/6/2015 10:45,80,debit,iNox,entertainment
+30762,Bradley Ahrend,2015,5,5/7/2015 23:45,5/7/2015 23:45,70,debit,Broncos,entertainment
+30762,Bradley Ahrend,2015,5,5/10/2015 23:45,5/10/2015 23:45,80,debit,iNox,entertainment
+30762,Bradley Ahrend,2015,5,5/11/2015 19:45,5/11/2015 19:45,80,debit,iNox,entertainment
+30762,Bradley Ahrend,2015,5,5/13/2015 23:45,5/13/2015 23:45,40,debit,Starbucks,entertainment
+30762,Bradley Ahrend,2015,5,5/14/2015 9:45,5/14/2015 9:45,80,debit,iNox,entertainment
+30762,Bradley Ahrend,2015,5,5/15/2015 19:45,5/15/2015 19:45,80,debit,iNox,entertainment
+30762,Bradley Ahrend,2015,5,5/15/2015 23:45,5/15/2015 23:45,70,debit,Broncos,entertainment
+30762,Bradley Ahrend,2015,5,5/17/2015 19:45,5/17/2015 19:45,101,debit,sainsbury,grocery
+30762,Bradley Ahrend,2015,5,5/17/2015 10:45,5/17/2015 10:45,80,debit,iNox,entertainment
+30762,Bradley Ahrend,2015,5,5/19/2015 10:45,5/19/2015 10:45,40,debit,Starbucks,entertainment
+30762,Bradley Ahrend,2015,5,5/21/2015 19:45,5/21/2015 19:45,40,debit,Starbucks,entertainment
+30762,Bradley Ahrend,2015,5,5/21/2015 10:45,5/21/2015 10:45,40,debit,Starbucks,entertainment
+30762,Bradley Ahrend,2015,5,5/21/2015 9:45,5/21/2015 9:45,70,debit,Broncos,entertainment
+30762,Bradley Ahrend,2015,5,5/21/2015 23:45,5/21/2015 23:45,40,debit,Starbucks,entertainment
+30762,Bradley Ahrend,2015,5,5/24/2015 9:45,5/24/2015 9:45,70,debit,Broncos,entertainment
+30762,Bradley Ahrend,2015,5,5/25/2015 17:15,5/25/2015 17:15,112,debit,Food Bazaar,grocery
+30762,Bradley Ahrend,2015,5,5/25/2015 10:45,5/25/2015 10:45,101,debit,Food Bazaar,grocery
+30762,Bradley Ahrend,2015,5,5/26/2015 23:45,5/26/2015 23:45,103,debit,Coscto,grocery
+30762,Bradley Ahrend,2015,5,5/27/2015 9:45,5/27/2015 9:45,469,debit,savings account,savings
+900490028,Diana Ahrendt,2015,5,5/1/2015 19:45,5/1/2015 19:45,1666,credit,Company,salary
+900490028,Diana Ahrendt,2015,5,5/2/2015 10:45,5/2/2015 10:45,60,debit,internet,utility
+900490028,Diana Ahrendt,2015,5,5/3/2015 17:15,5/3/2015 17:15,16,debit,savings account,savings
+900490028,Diana Ahrendt,2015,5,5/4/2015 10:45,5/4/2015 10:45,40,debit,electricity,utility
+900490028,Diana Ahrendt,2015,5,5/11/2015 19:45,5/11/2015 19:45,114,debit,Coscto,grocery
+900490028,Diana Ahrendt,2015,5,5/11/2015 10:45,5/11/2015 10:45,80,debit,iNox,entertainment
+900490028,Diana Ahrendt,2015,5,5/13/2015 17:15,5/13/2015 17:15,120,debit,Jewel,grocery
+900490028,Diana Ahrendt,2015,5,5/15/2015 10:45,5/15/2015 10:45,20,debit,Travel,entertainment
+900490028,Diana Ahrendt,2015,5,5/16/2015 10:45,5/16/2015 10:45,109,debit,Jewel,grocery
+900490028,Diana Ahrendt,2015,5,5/16/2015 17:15,5/16/2015 17:15,80,debit,iNox,entertainment
+900490028,Diana Ahrendt,2015,5,5/19/2015 19:45,5/19/2015 19:45,80,debit,iNox,entertainment
+900490028,Diana Ahrendt,2015,5,5/20/2015 10:45,5/20/2015 10:45,20,debit,Travel,entertainment
+900490028,Diana Ahrendt,2015,5,5/21/2015 9:45,5/21/2015 9:45,80,debit,iNox,entertainment
+900490028,Diana Ahrendt,2015,5,5/26/2015 17:15,5/26/2015 17:15,20,debit,Travel,entertainment
+900490028,Diana Ahrendt,2015,5,5/27/2015 17:15,5/27/2015 17:15,120,debit,Jewel,grocery
+900490028,Diana Ahrendt,2015,5,5/27/2015 19:45,5/27/2015 19:45,20,debit,Travel,entertainment
+900490028,Diana Ahrendt,2015,5,5/28/2015 10:45,5/28/2015 10:45,551,debit,savings account,savings
+300160909,Robert Ahrendt,2015,5,5/1/2015 9:45,5/1/2015 9:45,1666,credit,Company,salary
+300160909,Robert Ahrendt,2015,5,5/2/2015 9:45,5/2/2015 9:45,40,debit,electricity,utility
+300160909,Robert Ahrendt,2015,5,5/2/2015 10:45,5/2/2015 10:45,60,debit,internet,utility
+300160909,Robert Ahrendt,2015,5,5/2/2015 10:45,5/2/2015 10:45,80,debit,iNox,entertainment
+300160909,Robert Ahrendt,2015,5,5/3/2015 23:45,5/3/2015 23:45,117,debit,Food Bazaar,grocery
+300160909,Robert Ahrendt,2015,5,5/7/2015 10:45,5/7/2015 10:45,70,debit,Broncos,entertainment
+300160909,Robert Ahrendt,2015,5,5/17/2015 9:45,5/17/2015 9:45,80,debit,iNox,entertainment
+300160909,Robert Ahrendt,2015,5,5/21/2015 17:15,5/21/2015 17:15,40,debit,Starbucks,entertainment
+300160909,Robert Ahrendt,2015,5,5/21/2015 17:15,5/21/2015 17:15,70,debit,Broncos,entertainment
+300160909,Robert Ahrendt,2015,5,5/22/2015 17:15,5/22/2015 17:15,109,debit,Food Bazaar,grocery
+300160909,Robert Ahrendt,2015,5,5/23/2015 19:45,5/23/2015 19:45,109,debit,Coscto,grocery
+300160909,Robert Ahrendt,2015,5,5/25/2015 23:45,5/25/2015 23:45,105,debit,Food Bazaar,grocery
+300160909,Robert Ahrendt,2015,5,5/27/2015 19:45,5/27/2015 19:45,563,debit,savings account,savings
+700880541,William Ahrendt,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+700880541,William Ahrendt,2015,5,5/2/2015 17:15,5/2/2015 17:15,40,debit,electricity,utility
+700880541,William Ahrendt,2015,5,5/2/2015 9:45,5/2/2015 9:45,17,debit,Travel,entertainment
+700880541,William Ahrendt,2015,5,5/3/2015 9:45,5/3/2015 9:45,60,debit,internet,utility
+700880541,William Ahrendt,2015,5,5/7/2015 9:45,5/7/2015 9:45,104,debit,Jewel,grocery
+700880541,William Ahrendt,2015,5,5/7/2015 23:45,5/7/2015 23:45,70,debit,Broncos,entertainment
+700880541,William Ahrendt,2015,5,5/8/2015 19:45,5/8/2015 19:45,118,debit,Jewel,grocery
+700880541,William Ahrendt,2015,5,5/8/2015 19:45,5/8/2015 19:45,70,debit,Broncos,entertainment
+700880541,William Ahrendt,2015,5,5/10/2015 9:45,5/10/2015 9:45,70,debit,Broncos,entertainment
+700880541,William Ahrendt,2015,5,5/11/2015 19:45,5/11/2015 19:45,80,debit,iNox,entertainment
+700880541,William Ahrendt,2015,5,5/14/2015 9:45,5/14/2015 9:45,70,debit,Broncos,entertainment
+700880541,William Ahrendt,2015,5,5/14/2015 9:45,5/14/2015 9:45,70,debit,Broncos,entertainment
+700880541,William Ahrendt,2015,5,5/15/2015 23:45,5/15/2015 23:45,70,debit,Broncos,entertainment
+700880541,William Ahrendt,2015,5,5/16/2015 9:45,5/16/2015 9:45,112,debit,Coscto,grocery
+700880541,William Ahrendt,2015,5,5/16/2015 23:45,5/16/2015 23:45,40,debit,Starbucks,entertainment
+700880541,William Ahrendt,2015,5,5/19/2015 10:45,5/19/2015 10:45,70,debit,Broncos,entertainment
+700880541,William Ahrendt,2015,5,5/20/2015 17:15,5/20/2015 17:15,40,debit,Starbucks,entertainment
+700880541,William Ahrendt,2015,5,5/22/2015 23:45,5/22/2015 23:45,106,debit,Coscto,grocery
+700880541,William Ahrendt,2015,5,5/25/2015 23:45,5/25/2015 23:45,112,debit,savings account,savings
+700880541,William Ahrendt,2015,5,5/25/2015 17:15,5/25/2015 17:15,80,debit,iNox,entertainment
+900631,Scott Ahrendts,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+900631,Scott Ahrendts,2015,5,5/3/2015 10:45,5/3/2015 10:45,40,debit,electricity,utility
+900631,Scott Ahrendts,2015,5,5/3/2015 17:15,5/3/2015 17:15,60,debit,internet,utility
+900631,Scott Ahrendts,2015,5,5/3/2015 19:45,5/3/2015 19:45,15,debit,savings account,savings
+900631,Scott Ahrendts,2015,5,5/3/2015 9:45,5/3/2015 9:45,80,debit,iNox,entertainment
+900631,Scott Ahrendts,2015,5,5/9/2015 23:45,5/9/2015 23:45,19,debit,Travel,entertainment
+900631,Scott Ahrendts,2015,5,5/9/2015 23:45,5/9/2015 23:45,19,debit,Travel,entertainment
+900631,Scott Ahrendts,2015,5,5/10/2015 10:45,5/10/2015 10:45,15,debit,savings account,savings
+900631,Scott Ahrendts,2015,5,5/10/2015 23:45,5/10/2015 23:45,19,debit,Travel,entertainment
+900631,Scott Ahrendts,2015,5,5/11/2015 9:45,5/11/2015 9:45,101,debit,Food Bazaar,grocery
+900631,Scott Ahrendts,2015,5,5/11/2015 23:45,5/11/2015 23:45,19,debit,Travel,entertainment
+900631,Scott Ahrendts,2015,5,5/14/2015 23:45,5/14/2015 23:45,80,debit,iNox,entertainment
+900631,Scott Ahrendts,2015,5,5/15/2015 10:45,5/15/2015 10:45,106,debit,Jewel,grocery
+900631,Scott Ahrendts,2015,5,5/17/2015 19:45,5/17/2015 19:45,116,debit,Food Bazaar,grocery
+900631,Scott Ahrendts,2015,5,5/19/2015 23:45,5/19/2015 23:45,80,debit,iNox,entertainment
+900631,Scott Ahrendts,2015,5,5/20/2015 10:45,5/20/2015 10:45,15,debit,savings account,savings
+900631,Scott Ahrendts,2015,5,5/28/2015 19:45,5/28/2015 19:45,621,debit,savings account,savings
+900631,Scott Ahrendts,2015,5,5/28/2015 10:45,5/28/2015 10:45,15,debit,savings account,savings
+800540830,Marjorie Ahrens,2015,5,5/1/2015 17:15,5/1/2015 17:15,1666,credit,Company,salary
+800540830,Marjorie Ahrens,2015,5,5/2/2015 19:45,5/2/2015 19:45,60,debit,internet,utility
+800540830,Marjorie Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,80,debit,iNox,entertainment
+800540830,Marjorie Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,40,debit,electricity,utility
+800540830,Marjorie Ahrens,2015,5,5/7/2015 17:15,5/7/2015 17:15,80,debit,iNox,entertainment
+800540830,Marjorie Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,80,debit,iNox,entertainment
+800540830,Marjorie Ahrens,2015,5,5/11/2015 19:45,5/11/2015 19:45,70,debit,Broncos,entertainment
+800540830,Marjorie Ahrens,2015,5,5/12/2015 10:45,5/12/2015 10:45,40,debit,Starbucks,entertainment
+800540830,Marjorie Ahrens,2015,5,5/13/2015 17:15,5/13/2015 17:15,70,debit,Broncos,entertainment
+800540830,Marjorie Ahrens,2015,5,5/13/2015 23:45,5/13/2015 23:45,80,debit,iNox,entertainment
+800540830,Marjorie Ahrens,2015,5,5/15/2015 19:45,5/15/2015 19:45,70,debit,Broncos,entertainment
+800540830,Marjorie Ahrens,2015,5,5/17/2015 19:45,5/17/2015 19:45,40,debit,Starbucks,entertainment
+800540830,Marjorie Ahrens,2015,5,5/19/2015 23:45,5/19/2015 23:45,70,debit,Broncos,entertainment
+800540830,Marjorie Ahrens,2015,5,5/20/2015 19:45,5/20/2015 19:45,111,debit,sainsbury,grocery
+800540830,Marjorie Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,112,debit,Coscto,grocery
+800540830,Marjorie Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,70,debit,Broncos,entertainment
+800540830,Marjorie Ahrens,2015,5,5/24/2015 19:45,5/24/2015 19:45,80,debit,iNox,entertainment
+800540830,Marjorie Ahrens,2015,5,5/26/2015 23:45,5/26/2015 23:45,115,debit,Coscto,grocery
+800540830,Marjorie Ahrens,2015,5,5/28/2015 9:45,5/28/2015 9:45,307,debit,savings account,savings
+900500660,David Ahrens,2015,5,5/1/2015 23:45,5/1/2015 23:45,1666,credit,Company,salary
+900500660,David Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,60,debit,internet,utility
+900500660,David Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,112,debit,Food Bazaar,grocery
+900500660,David Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,40,debit,electricity,utility
+900500660,David Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,70,debit,Broncos,entertainment
+900500660,David Ahrens,2015,5,5/6/2015 23:45,5/6/2015 23:45,80,debit,iNox,entertainment
+900500660,David Ahrens,2015,5,5/6/2015 9:45,5/6/2015 9:45,70,debit,Broncos,entertainment
+900500660,David Ahrens,2015,5,5/7/2015 19:45,5/7/2015 19:45,80,debit,iNox,entertainment
+900500660,David Ahrens,2015,5,5/7/2015 19:45,5/7/2015 19:45,80,debit,iNox,entertainment
+900500660,David Ahrens,2015,5,5/9/2015 17:15,5/9/2015 17:15,70,debit,Broncos,entertainment
+900500660,David Ahrens,2015,5,5/11/2015 17:15,5/11/2015 17:15,70,debit,Broncos,entertainment
+900500660,David Ahrens,2015,5,5/17/2015 19:45,5/17/2015 19:45,40,debit,Starbucks,entertainment
+900500660,David Ahrens,2015,5,5/17/2015 23:45,5/17/2015 23:45,70,debit,Broncos,entertainment
+900500660,David Ahrens,2015,5,5/18/2015 9:45,5/18/2015 9:45,118,debit,Jewel,grocery
+900500660,David Ahrens,2015,5,5/25/2015 10:45,5/25/2015 10:45,334,debit,savings account,savings
+900500660,David Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,80,debit,iNox,entertainment
+900500660,David Ahrens,2015,5,5/25/2015 19:45,5/25/2015 19:45,70,debit,Broncos,entertainment
+900500660,David Ahrens,2015,5,5/27/2015 10:45,5/27/2015 10:45,80,debit,iNox,entertainment
+500080973,Lee Ahrens,2015,5,5/1/2015 17:15,5/1/2015 17:15,1666,credit,Company,salary
+500080973,Lee Ahrens,2015,5,5/2/2015 10:45,5/2/2015 10:45,119,debit,sainsbury,grocery
+500080973,Lee Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,60,debit,internet,utility
+500080973,Lee Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,40,debit,Starbucks,entertainment
+500080973,Lee Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,40,debit,Starbucks,entertainment
+500080973,Lee Ahrens,2015,5,5/5/2015 19:45,5/5/2015 19:45,40,debit,electricity,utility
+500080973,Lee Ahrens,2015,5,5/9/2015 10:45,5/9/2015 10:45,101,debit,sainsbury,grocery
+500080973,Lee Ahrens,2015,5,5/9/2015 10:45,5/9/2015 10:45,80,debit,iNox,entertainment
+500080973,Lee Ahrens,2015,5,5/10/2015 19:45,5/10/2015 19:45,70,debit,Broncos,entertainment
+500080973,Lee Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,40,debit,Starbucks,entertainment
+500080973,Lee Ahrens,2015,5,5/13/2015 17:15,5/13/2015 17:15,70,debit,Broncos,entertainment
+500080973,Lee Ahrens,2015,5,5/14/2015 10:45,5/14/2015 10:45,119,debit,Jewel,grocery
+500080973,Lee Ahrens,2015,5,5/16/2015 9:45,5/16/2015 9:45,70,debit,Broncos,entertainment
+500080973,Lee Ahrens,2015,5,5/16/2015 23:45,5/16/2015 23:45,40,debit,Starbucks,entertainment
+500080973,Lee Ahrens,2015,5,5/16/2015 19:45,5/16/2015 19:45,80,debit,iNox,entertainment
+500080973,Lee Ahrens,2015,5,5/19/2015 17:15,5/19/2015 17:15,118,debit,Coscto,grocery
+500080973,Lee Ahrens,2015,5,5/22/2015 17:15,5/22/2015 17:15,40,debit,Starbucks,entertainment
+500080973,Lee Ahrens,2015,5,5/23/2015 9:45,5/23/2015 9:45,40,debit,Starbucks,entertainment
+500080973,Lee Ahrens,2015,5,5/23/2015 9:45,5/23/2015 9:45,40,debit,Starbucks,entertainment
+500080973,Lee Ahrens,2015,5,5/24/2015 10:45,5/24/2015 10:45,70,debit,Broncos,entertainment
+500080973,Lee Ahrens,2015,5,5/24/2015 23:45,5/24/2015 23:45,40,debit,Starbucks,entertainment
+500080973,Lee Ahrens,2015,5,5/26/2015 19:45,5/26/2015 19:45,70,debit,Broncos,entertainment
+500080973,Lee Ahrens,2015,5,5/27/2015 17:15,5/27/2015 17:15,110,debit,savings account,savings
+500080973,Lee Ahrens,2015,5,5/27/2015 23:45,5/27/2015 23:45,40,debit,Starbucks,entertainment
+600500007,Brian Ahrens,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+600500007,Brian Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,40,debit,electricity,utility
+600500007,Brian Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,60,debit,internet,utility
+600500007,Brian Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,40,debit,Starbucks,entertainment
+600500007,Brian Ahrens,2015,5,5/6/2015 19:45,5/6/2015 19:45,70,debit,Broncos,entertainment
+600500007,Brian Ahrens,2015,5,5/7/2015 9:45,5/7/2015 9:45,80,debit,iNox,entertainment
+600500007,Brian Ahrens,2015,5,5/9/2015 10:45,5/9/2015 10:45,40,debit,Starbucks,entertainment
+600500007,Brian Ahrens,2015,5,5/11/2015 19:45,5/11/2015 19:45,40,debit,Starbucks,entertainment
+600500007,Brian Ahrens,2015,5,5/12/2015 19:45,5/12/2015 19:45,120,debit,Coscto,grocery
+600500007,Brian Ahrens,2015,5,5/14/2015 19:45,5/14/2015 19:45,40,debit,Starbucks,entertainment
+600500007,Brian Ahrens,2015,5,5/15/2015 23:45,5/15/2015 23:45,108,debit,Coscto,grocery
+600500007,Brian Ahrens,2015,5,5/15/2015 17:15,5/15/2015 17:15,70,debit,Broncos,entertainment
+600500007,Brian Ahrens,2015,5,5/17/2015 17:15,5/17/2015 17:15,80,debit,iNox,entertainment
+600500007,Brian Ahrens,2015,5,5/18/2015 23:45,5/18/2015 23:45,117,debit,sainsbury,grocery
+600500007,Brian Ahrens,2015,5,5/20/2015 19:45,5/20/2015 19:45,70,debit,Broncos,entertainment
+600500007,Brian Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,70,debit,Broncos,entertainment
+600500007,Brian Ahrens,2015,5,5/26/2015 9:45,5/26/2015 9:45,40,debit,Starbucks,entertainment
+600500007,Brian Ahrens,2015,5,5/27/2015 17:15,5/27/2015 17:15,305,debit,savings account,savings
+600500007,Brian Ahrens,2015,5,5/28/2015 10:45,5/28/2015 10:45,70,debit,Broncos,entertainment
+300473,Nicole Ahrens,2015,5,5/1/2015 23:45,5/1/2015 23:45,2916,credit,Company,salary
+300473,Nicole Ahrens,2015,5,5/2/2015 10:45,5/2/2015 10:45,70,debit,Broncos,entertainment
+300473,Nicole Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,60,debit,internet,utility
+300473,Nicole Ahrens,2015,5,5/4/2015 10:45,5/4/2015 10:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/5/2015 19:45,5/5/2015 19:45,40,debit,electricity,utility
+300473,Nicole Ahrens,2015,5,5/5/2015 10:45,5/5/2015 10:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/6/2015 9:45,5/6/2015 9:45,104,debit,Food Bazaar,grocery
+300473,Nicole Ahrens,2015,5,5/7/2015 17:15,5/7/2015 17:15,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/8/2015 19:45,5/8/2015 19:45,70,debit,Broncos,entertainment
+300473,Nicole Ahrens,2015,5,5/9/2015 9:45,5/9/2015 9:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/11/2015 9:45,5/11/2015 9:45,70,debit,Broncos,entertainment
+300473,Nicole Ahrens,2015,5,5/12/2015 9:45,5/12/2015 9:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/13/2015 9:45,5/13/2015 9:45,110,debit,Jewel,grocery
+300473,Nicole Ahrens,2015,5,5/13/2015 23:45,5/13/2015 23:45,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/14/2015 9:45,5/14/2015 9:45,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/15/2015 10:45,5/15/2015 10:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/18/2015 17:15,5/18/2015 17:15,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/19/2015 17:15,5/19/2015 17:15,117,debit,sainsbury,grocery
+300473,Nicole Ahrens,2015,5,5/20/2015 23:45,5/20/2015 23:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/21/2015 10:45,5/21/2015 10:45,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,70,debit,Broncos,entertainment
+300473,Nicole Ahrens,2015,5,5/24/2015 23:45,5/24/2015 23:45,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/25/2015 23:45,5/25/2015 23:45,120,debit,Food Bazaar,grocery
+300473,Nicole Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/25/2015 23:45,5/25/2015 23:45,70,debit,Broncos,entertainment
+300473,Nicole Ahrens,2015,5,5/25/2015 19:45,5/25/2015 19:45,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/26/2015 17:15,5/26/2015 17:15,70,debit,Broncos,entertainment
+300473,Nicole Ahrens,2015,5,5/27/2015 9:45,5/27/2015 9:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/27/2015 17:15,5/27/2015 17:15,70,debit,Broncos,entertainment
+300473,Nicole Ahrens,2015,5,5/28/2015 19:45,5/28/2015 19:45,591,debit,savings account,savings
+300473,Nicole Ahrens,2015,5,5/28/2015 10:45,5/28/2015 10:45,80,debit,iNox,entertainment
+300473,Nicole Ahrens,2015,5,5/28/2015 19:45,5/28/2015 19:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/28/2015 9:45,5/28/2015 9:45,40,debit,Starbucks,entertainment
+300473,Nicole Ahrens,2015,5,5/28/2015 17:15,5/28/2015 17:15,70,debit,Broncos,entertainment
+100850745,Michelle Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,1666,credit,Company,salary
+100850745,Michelle Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,60,debit,internet,utility
+100850745,Michelle Ahrens,2015,5,5/3/2015 9:45,5/3/2015 9:45,17,debit,Travel,entertainment
+100850745,Michelle Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,19,debit,savings account,savings
+100850745,Michelle Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,40,debit,electricity,utility
+100850745,Michelle Ahrens,2015,5,5/8/2015 9:45,5/8/2015 9:45,17,debit,Travel,entertainment
+100850745,Michelle Ahrens,2015,5,5/9/2015 9:45,5/9/2015 9:45,17,debit,Travel,entertainment
+100850745,Michelle Ahrens,2015,5,5/12/2015 23:45,5/12/2015 23:45,17,debit,Travel,entertainment
+100850745,Michelle Ahrens,2015,5,5/13/2015 10:45,5/13/2015 10:45,80,debit,iNox,entertainment
+100850745,Michelle Ahrens,2015,5,5/13/2015 9:45,5/13/2015 9:45,17,debit,Travel,entertainment
+100850745,Michelle Ahrens,2015,5,5/14/2015 19:45,5/14/2015 19:45,80,debit,iNox,entertainment
+100850745,Michelle Ahrens,2015,5,5/15/2015 10:45,5/15/2015 10:45,17,debit,Travel,entertainment
+100850745,Michelle Ahrens,2015,5,5/17/2015 9:45,5/17/2015 9:45,19,debit,savings account,savings
+100850745,Michelle Ahrens,2015,5,5/18/2015 23:45,5/18/2015 23:45,19,debit,savings account,savings
+100850745,Michelle Ahrens,2015,5,5/19/2015 23:45,5/19/2015 23:45,107,debit,Jewel,grocery
+100850745,Michelle Ahrens,2015,5,5/19/2015 23:45,5/19/2015 23:45,17,debit,Travel,entertainment
+100850745,Michelle Ahrens,2015,5,5/20/2015 9:45,5/20/2015 9:45,17,debit,Travel,entertainment
+100850745,Michelle Ahrens,2015,5,5/24/2015 17:15,5/24/2015 17:15,102,debit,Jewel,grocery
+100850745,Michelle Ahrens,2015,5,5/24/2015 17:15,5/24/2015 17:15,80,debit,iNox,entertainment
+100850745,Michelle Ahrens,2015,5,5/27/2015 17:15,5/27/2015 17:15,678,debit,savings account,savings
+600810064,Darby Ahrens,2015,5,5/1/2015 17:15,5/1/2015 17:15,1666,credit,Company,salary
+600810064,Darby Ahrens,2015,5,5/2/2015 17:15,5/2/2015 17:15,60,debit,internet,utility
+600810064,Darby Ahrens,2015,5,5/3/2015 10:45,5/3/2015 10:45,110,debit,Jewel,grocery
+600810064,Darby Ahrens,2015,5,5/5/2015 19:45,5/5/2015 19:45,40,debit,electricity,utility
+600810064,Darby Ahrens,2015,5,5/6/2015 19:45,5/6/2015 19:45,80,debit,iNox,entertainment
+600810064,Darby Ahrens,2015,5,5/7/2015 23:45,5/7/2015 23:45,104,debit,Coscto,grocery
+600810064,Darby Ahrens,2015,5,5/7/2015 9:45,5/7/2015 9:45,80,debit,iNox,entertainment
+600810064,Darby Ahrens,2015,5,5/10/2015 19:45,5/10/2015 19:45,16,debit,Travel,entertainment
+600810064,Darby Ahrens,2015,5,5/11/2015 19:45,5/11/2015 19:45,104,debit,sainsbury,grocery
+600810064,Darby Ahrens,2015,5,5/14/2015 9:45,5/14/2015 9:45,16,debit,Travel,entertainment
+600810064,Darby Ahrens,2015,5,5/15/2015 23:45,5/15/2015 23:45,80,debit,iNox,entertainment
+600810064,Darby Ahrens,2015,5,5/19/2015 10:45,5/19/2015 10:45,13,debit,savings account,savings
+600810064,Darby Ahrens,2015,5,5/20/2015 9:45,5/20/2015 9:45,80,debit,iNox,entertainment
+600810064,Darby Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,101,debit,Food Bazaar,grocery
+600810064,Darby Ahrens,2015,5,5/25/2015 23:45,5/25/2015 23:45,16,debit,Travel,entertainment
+600810064,Darby Ahrens,2015,5,5/26/2015 17:15,5/26/2015 17:15,573,debit,savings account,savings
+600810064,Darby Ahrens,2015,5,5/28/2015 9:45,5/28/2015 9:45,13,debit,savings account,savings
+500950639,Michele Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,2083,credit,Company,salary
+500950639,Michele Ahrens,2015,5,5/2/2015 19:45,5/2/2015 19:45,60,debit,internet,utility
+500950639,Michele Ahrens,2015,5,5/3/2015 17:15,5/3/2015 17:15,40,debit,electricity,utility
+500950639,Michele Ahrens,2015,5,5/3/2015 10:45,5/3/2015 10:45,19,debit,Travel,entertainment
+500950639,Michele Ahrens,2015,5,5/4/2015 9:45,5/4/2015 9:45,114,debit,Jewel,grocery
+500950639,Michele Ahrens,2015,5,5/4/2015 9:45,5/4/2015 9:45,80,debit,iNox,entertainment
+500950639,Michele Ahrens,2015,5,5/6/2015 10:45,5/6/2015 10:45,19,debit,Travel,entertainment
+500950639,Michele Ahrens,2015,5,5/10/2015 19:45,5/10/2015 19:45,19,debit,Travel,entertainment
+500950639,Michele Ahrens,2015,5,5/12/2015 10:45,5/12/2015 10:45,80,debit,iNox,entertainment
+500950639,Michele Ahrens,2015,5,5/13/2015 19:45,5/13/2015 19:45,20,debit,Cash savings,savings
+500950639,Michele Ahrens,2015,5,5/14/2015 23:45,5/14/2015 23:45,80,debit,iNox,entertainment
+500950639,Michele Ahrens,2015,5,5/15/2015 9:45,5/15/2015 9:45,80,debit,iNox,entertainment
+500950639,Michele Ahrens,2015,5,5/16/2015 10:45,5/16/2015 10:45,19,debit,Travel,entertainment
+500950639,Michele Ahrens,2015,5,5/17/2015 9:45,5/17/2015 9:45,80,debit,iNox,entertainment
+500950639,Michele Ahrens,2015,5,5/20/2015 23:45,5/20/2015 23:45,19,debit,Travel,entertainment
+500950639,Michele Ahrens,2015,5,5/22/2015 19:45,5/22/2015 19:45,80,debit,iNox,entertainment
+500950639,Michele Ahrens,2015,5,5/23/2015 19:45,5/23/2015 19:45,110,debit,sainsbury,grocery
+500950639,Michele Ahrens,2015,5,5/25/2015 9:45,5/25/2015 9:45,879,debit,savings account,savings
+500950639,Michele Ahrens,2015,5,5/25/2015 9:45,5/25/2015 9:45,19,debit,Travel,entertainment
+500950639,Michele Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,19,debit,Travel,entertainment
+500950639,Michele Ahrens,2015,5,5/28/2015 10:45,5/28/2015 10:45,20,debit,Cash savings,savings
+100460970,Lisa Ahrens,2015,5,5/1/2015 10:45,5/1/2015 10:45,2916,credit,Company,salary
+100460970,Lisa Ahrens,2015,5,5/2/2015 9:45,5/2/2015 9:45,60,debit,internet,utility
+100460970,Lisa Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,40,debit,electricity,utility
+100460970,Lisa Ahrens,2015,5,5/5/2015 19:45,5/5/2015 19:45,80,debit,iNox,entertainment
+100460970,Lisa Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,70,debit,Broncos,entertainment
+100460970,Lisa Ahrens,2015,5,5/7/2015 10:45,5/7/2015 10:45,103,debit,Jewel,grocery
+100460970,Lisa Ahrens,2015,5,5/7/2015 23:45,5/7/2015 23:45,108,debit,Food Bazaar,grocery
+100460970,Lisa Ahrens,2015,5,5/7/2015 10:45,5/7/2015 10:45,70,debit,Broncos,entertainment
+100460970,Lisa Ahrens,2015,5,5/9/2015 17:15,5/9/2015 17:15,113,debit,sainsbury,grocery
+100460970,Lisa Ahrens,2015,5,5/9/2015 19:45,5/9/2015 19:45,70,debit,Broncos,entertainment
+100460970,Lisa Ahrens,2015,5,5/10/2015 19:45,5/10/2015 19:45,40,debit,Starbucks,entertainment
+100460970,Lisa Ahrens,2015,5,5/11/2015 9:45,5/11/2015 9:45,117,debit,sainsbury,grocery
+100460970,Lisa Ahrens,2015,5,5/13/2015 23:45,5/13/2015 23:45,70,debit,Broncos,entertainment
+100460970,Lisa Ahrens,2015,5,5/14/2015 19:45,5/14/2015 19:45,80,debit,iNox,entertainment
+100460970,Lisa Ahrens,2015,5,5/17/2015 10:45,5/17/2015 10:45,40,debit,Starbucks,entertainment
+100460970,Lisa Ahrens,2015,5,5/18/2015 9:45,5/18/2015 9:45,80,debit,iNox,entertainment
+100460970,Lisa Ahrens,2015,5,5/20/2015 23:45,5/20/2015 23:45,80,debit,iNox,entertainment
+100460970,Lisa Ahrens,2015,5,5/24/2015 23:45,5/24/2015 23:45,107,debit,sainsbury,grocery
+100460970,Lisa Ahrens,2015,5,5/24/2015 17:15,5/24/2015 17:15,70,debit,Broncos,entertainment
+100460970,Lisa Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,107,debit,Jewel,grocery
+100460970,Lisa Ahrens,2015,5,5/26/2015 19:45,5/26/2015 19:45,80,debit,iNox,entertainment
+100460970,Lisa Ahrens,2015,5,5/27/2015 23:45,5/27/2015 23:45,80,debit,iNox,entertainment
+100460970,Lisa Ahrens,2015,5,5/28/2015 10:45,5/28/2015 10:45,1080,debit,savings account,savings
+100130568,Maria Ahrens,2015,5,5/1/2015 23:45,5/1/2015 23:45,1666,credit,Company,salary
+100130568,Maria Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,102,debit,Food Bazaar,grocery
+100130568,Maria Ahrens,2015,5,5/2/2015 19:45,5/2/2015 19:45,40,debit,Starbucks,entertainment
+100130568,Maria Ahrens,2015,5,5/3/2015 17:15,5/3/2015 17:15,60,debit,internet,utility
+100130568,Maria Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,80,debit,iNox,entertainment
+100130568,Maria Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,40,debit,electricity,utility
+100130568,Maria Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,80,debit,iNox,entertainment
+100130568,Maria Ahrens,2015,5,5/6/2015 23:45,5/6/2015 23:45,101,debit,sainsbury,grocery
+100130568,Maria Ahrens,2015,5,5/9/2015 10:45,5/9/2015 10:45,18,debit,Travel,entertainment
+100130568,Maria Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,115,debit,Coscto,grocery
+100130568,Maria Ahrens,2015,5,5/11/2015 9:45,5/11/2015 9:45,80,debit,iNox,entertainment
+100130568,Maria Ahrens,2015,5,5/11/2015 19:45,5/11/2015 19:45,80,debit,iNox,entertainment
+100130568,Maria Ahrens,2015,5,5/11/2015 23:45,5/11/2015 23:45,80,debit,iNox,entertainment
+100130568,Maria Ahrens,2015,5,5/14/2015 17:15,5/14/2015 17:15,18,debit,Travel,entertainment
+100130568,Maria Ahrens,2015,5,5/15/2015 19:45,5/15/2015 19:45,40,debit,Starbucks,entertainment
+100130568,Maria Ahrens,2015,5,5/16/2015 23:45,5/16/2015 23:45,40,debit,Starbucks,entertainment
+100130568,Maria Ahrens,2015,5,5/17/2015 9:45,5/17/2015 9:45,18,debit,Travel,entertainment
+100130568,Maria Ahrens,2015,5,5/17/2015 17:15,5/17/2015 17:15,18,debit,Travel,entertainment
+100130568,Maria Ahrens,2015,5,5/18/2015 9:45,5/18/2015 9:45,18,debit,Travel,entertainment
+100130568,Maria Ahrens,2015,5,5/21/2015 19:45,5/21/2015 19:45,40,debit,Starbucks,entertainment
+100130568,Maria Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,115,debit,Food Bazaar,grocery
+100130568,Maria Ahrens,2015,5,5/23/2015 10:45,5/23/2015 10:45,40,debit,Starbucks,entertainment
+100130568,Maria Ahrens,2015,5,5/25/2015 23:45,5/25/2015 23:45,113,debit,savings account,savings
+100130568,Maria Ahrens,2015,5,5/28/2015 19:45,5/28/2015 19:45,70,debit,Broncos,entertainment
+100130568,Maria Ahrens,2015,5,5/28/2015 19:45,5/28/2015 19:45,40,debit,Starbucks,entertainment
+400010323,Domenic Ahrens,2015,5,5/1/2015 17:15,5/1/2015 17:15,1666,credit,Company,salary
+400010323,Domenic Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,40,debit,electricity,utility
+400010323,Domenic Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,60,debit,internet,utility
+400010323,Domenic Ahrens,2015,5,5/6/2015 9:45,5/6/2015 9:45,40,debit,Starbucks,entertainment
+400010323,Domenic Ahrens,2015,5,5/6/2015 17:15,5/6/2015 17:15,40,debit,Starbucks,entertainment
+400010323,Domenic Ahrens,2015,5,5/7/2015 9:45,5/7/2015 9:45,118,debit,sainsbury,grocery
+400010323,Domenic Ahrens,2015,5,5/10/2015 9:45,5/10/2015 9:45,40,debit,Starbucks,entertainment
+400010323,Domenic Ahrens,2015,5,5/13/2015 17:15,5/13/2015 17:15,70,debit,Broncos,entertainment
+400010323,Domenic Ahrens,2015,5,5/13/2015 23:45,5/13/2015 23:45,80,debit,iNox,entertainment
+400010323,Domenic Ahrens,2015,5,5/14/2015 9:45,5/14/2015 9:45,70,debit,Broncos,entertainment
+400010323,Domenic Ahrens,2015,5,5/15/2015 9:45,5/15/2015 9:45,80,debit,iNox,entertainment
+400010323,Domenic Ahrens,2015,5,5/19/2015 23:45,5/19/2015 23:45,70,debit,Broncos,entertainment
+400010323,Domenic Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,118,debit,sainsbury,grocery
+400010323,Domenic Ahrens,2015,5,5/21/2015 17:15,5/21/2015 17:15,70,debit,Broncos,entertainment
+400010323,Domenic Ahrens,2015,5,5/26/2015 19:45,5/26/2015 19:45,70,debit,Broncos,entertainment
+400010323,Domenic Ahrens,2015,5,5/28/2015 10:45,5/28/2015 10:45,532,debit,savings account,savings
+800480840,Carrie Ahrens,2015,5,5/1/2015 17:15,5/1/2015 17:15,1666,credit,Company,salary
+800480840,Carrie Ahrens,2015,5,5/2/2015 19:45,5/2/2015 19:45,40,debit,electricity,utility
+800480840,Carrie Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,60,debit,internet,utility
+800480840,Carrie Ahrens,2015,5,5/3/2015 10:45,5/3/2015 10:45,103,debit,Food Bazaar,grocery
+800480840,Carrie Ahrens,2015,5,5/5/2015 10:45,5/5/2015 10:45,40,debit,Starbucks,entertainment
+800480840,Carrie Ahrens,2015,5,5/7/2015 9:45,5/7/2015 9:45,40,debit,Starbucks,entertainment
+800480840,Carrie Ahrens,2015,5,5/11/2015 17:15,5/11/2015 17:15,70,debit,Broncos,entertainment
+800480840,Carrie Ahrens,2015,5,5/11/2015 23:45,5/11/2015 23:45,40,debit,Starbucks,entertainment
+800480840,Carrie Ahrens,2015,5,5/12/2015 9:45,5/12/2015 9:45,80,debit,iNox,entertainment
+800480840,Carrie Ahrens,2015,5,5/17/2015 10:45,5/17/2015 10:45,70,debit,Broncos,entertainment
+800480840,Carrie Ahrens,2015,5,5/18/2015 10:45,5/18/2015 10:45,80,debit,iNox,entertainment
+800480840,Carrie Ahrens,2015,5,5/20/2015 9:45,5/20/2015 9:45,70,debit,Broncos,entertainment
+800480840,Carrie Ahrens,2015,5,5/23/2015 23:45,5/23/2015 23:45,70,debit,Broncos,entertainment
+800480840,Carrie Ahrens,2015,5,5/25/2015 19:45,5/25/2015 19:45,540,debit,savings account,savings
+800480840,Carrie Ahrens,2015,5,5/25/2015 10:45,5/25/2015 10:45,80,debit,iNox,entertainment
+800480840,Carrie Ahrens,2015,5,5/26/2015 19:45,5/26/2015 19:45,111,debit,Food Bazaar,grocery
+800480840,Carrie Ahrens,2015,5,5/27/2015 9:45,5/27/2015 9:45,40,debit,Starbucks,entertainment
+800780309,Sarah Ahrens,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+800780309,Sarah Ahrens,2015,5,5/3/2015 10:45,5/3/2015 10:45,111,debit,Coscto,grocery
+800780309,Sarah Ahrens,2015,5,5/3/2015 17:15,5/3/2015 17:15,13,debit,savings account,savings
+800780309,Sarah Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,60,debit,internet,utility
+800780309,Sarah Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,40,debit,electricity,utility
+800780309,Sarah Ahrens,2015,5,5/5/2015 19:45,5/5/2015 19:45,19,debit,Travel,entertainment
+800780309,Sarah Ahrens,2015,5,5/9/2015 10:45,5/9/2015 10:45,19,debit,Travel,entertainment
+800780309,Sarah Ahrens,2015,5,5/12/2015 10:45,5/12/2015 10:45,80,debit,iNox,entertainment
+800780309,Sarah Ahrens,2015,5,5/15/2015 19:45,5/15/2015 19:45,19,debit,Travel,entertainment
+800780309,Sarah Ahrens,2015,5,5/15/2015 19:45,5/15/2015 19:45,80,debit,iNox,entertainment
+800780309,Sarah Ahrens,2015,5,5/17/2015 9:45,5/17/2015 9:45,19,debit,Travel,entertainment
+800780309,Sarah Ahrens,2015,5,5/18/2015 10:45,5/18/2015 10:45,104,debit,sainsbury,grocery
+800780309,Sarah Ahrens,2015,5,5/18/2015 9:45,5/18/2015 9:45,110,debit,Jewel,grocery
+800780309,Sarah Ahrens,2015,5,5/18/2015 19:45,5/18/2015 19:45,80,debit,iNox,entertainment
+800780309,Sarah Ahrens,2015,5,5/19/2015 19:45,5/19/2015 19:45,80,debit,iNox,entertainment
+800780309,Sarah Ahrens,2015,5,5/21/2015 10:45,5/21/2015 10:45,19,debit,Travel,entertainment
+800780309,Sarah Ahrens,2015,5,5/26/2015 10:45,5/26/2015 10:45,620,debit,savings account,savings
+900560323,Meghan Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,2083,credit,Company,salary
+900560323,Meghan Ahrens,2015,5,5/2/2015 19:45,5/2/2015 19:45,80,debit,iNox,entertainment
+900560323,Meghan Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,40,debit,electricity,utility
+900560323,Meghan Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,60,debit,internet,utility
+900560323,Meghan Ahrens,2015,5,5/6/2015 10:45,5/6/2015 10:45,70,debit,Broncos,entertainment
+900560323,Meghan Ahrens,2015,5,5/7/2015 17:15,5/7/2015 17:15,80,debit,iNox,entertainment
+900560323,Meghan Ahrens,2015,5,5/9/2015 23:45,5/9/2015 23:45,80,debit,iNox,entertainment
+900560323,Meghan Ahrens,2015,5,5/11/2015 23:45,5/11/2015 23:45,80,debit,iNox,entertainment
+900560323,Meghan Ahrens,2015,5,5/12/2015 17:15,5/12/2015 17:15,105,debit,sainsbury,grocery
+900560323,Meghan Ahrens,2015,5,5/13/2015 9:45,5/13/2015 9:45,70,debit,Broncos,entertainment
+900560323,Meghan Ahrens,2015,5,5/14/2015 10:45,5/14/2015 10:45,70,debit,Broncos,entertainment
+900560323,Meghan Ahrens,2015,5,5/15/2015 17:15,5/15/2015 17:15,70,debit,Broncos,entertainment
+900560323,Meghan Ahrens,2015,5,5/16/2015 19:45,5/16/2015 19:45,70,debit,Broncos,entertainment
+900560323,Meghan Ahrens,2015,5,5/19/2015 17:15,5/19/2015 17:15,40,debit,Starbucks,entertainment
+900560323,Meghan Ahrens,2015,5,5/20/2015 10:45,5/20/2015 10:45,105,debit,Jewel,grocery
+900560323,Meghan Ahrens,2015,5,5/21/2015 23:45,5/21/2015 23:45,119,debit,Food Bazaar,grocery
+900560323,Meghan Ahrens,2015,5,5/22/2015 10:45,5/22/2015 10:45,40,debit,Starbucks,entertainment
+900560323,Meghan Ahrens,2015,5,5/23/2015 9:45,5/23/2015 9:45,40,debit,Starbucks,entertainment
+900560323,Meghan Ahrens,2015,5,5/24/2015 17:15,5/24/2015 17:15,70,debit,Broncos,entertainment
+900560323,Meghan Ahrens,2015,5,5/24/2015 23:45,5/24/2015 23:45,70,debit,Broncos,entertainment
+900560323,Meghan Ahrens,2015,5,5/24/2015 19:45,5/24/2015 19:45,80,debit,iNox,entertainment
+900560323,Meghan Ahrens,2015,5,5/26/2015 23:45,5/26/2015 23:45,413,debit,savings account,savings
+700020643,Dennis Ahrens,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+700020643,Dennis Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,109,debit,Food Bazaar,grocery
+700020643,Dennis Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,40,debit,electricity,utility
+700020643,Dennis Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,60,debit,internet,utility
+700020643,Dennis Ahrens,2015,5,5/6/2015 23:45,5/6/2015 23:45,40,debit,Starbucks,entertainment
+700020643,Dennis Ahrens,2015,5,5/8/2015 17:15,5/8/2015 17:15,70,debit,Broncos,entertainment
+700020643,Dennis Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,80,debit,iNox,entertainment
+700020643,Dennis Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,40,debit,Starbucks,entertainment
+700020643,Dennis Ahrens,2015,5,5/13/2015 19:45,5/13/2015 19:45,40,debit,Starbucks,entertainment
+700020643,Dennis Ahrens,2015,5,5/15/2015 19:45,5/15/2015 19:45,80,debit,iNox,entertainment
+700020643,Dennis Ahrens,2015,5,5/17/2015 9:45,5/17/2015 9:45,80,debit,iNox,entertainment
+700020643,Dennis Ahrens,2015,5,5/18/2015 9:45,5/18/2015 9:45,102,debit,Food Bazaar,grocery
+700020643,Dennis Ahrens,2015,5,5/23/2015 10:45,5/23/2015 10:45,40,debit,Starbucks,entertainment
+700020643,Dennis Ahrens,2015,5,5/26/2015 9:45,5/26/2015 9:45,621,debit,savings account,savings
+700020643,Dennis Ahrens,2015,5,5/27/2015 19:45,5/27/2015 19:45,80,debit,iNox,entertainment
+700020643,Dennis Ahrens,2015,5,5/28/2015 23:45,5/28/2015 23:45,112,debit,Food Bazaar,grocery
+900350652,Roger Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,2916,credit,Company,salary
+900350652,Roger Ahrens,2015,5,5/2/2015 10:45,5/2/2015 10:45,40,debit,electricity,utility
+900350652,Roger Ahrens,2015,5,5/2/2015 19:45,5/2/2015 19:45,106,debit,Coscto,grocery
+900350652,Roger Ahrens,2015,5,5/2/2015 17:15,5/2/2015 17:15,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/2/2015 17:15,5/2/2015 17:15,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,16,debit,Travel,entertainment
+900350652,Roger Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,60,debit,internet,utility
+900350652,Roger Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,107,debit,sainsbury,grocery
+900350652,Roger Ahrens,2015,5,5/7/2015 19:45,5/7/2015 19:45,16,debit,Travel,entertainment
+900350652,Roger Ahrens,2015,5,5/7/2015 9:45,5/7/2015 9:45,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/8/2015 17:15,5/8/2015 17:15,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/8/2015 17:15,5/8/2015 17:15,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/10/2015 9:45,5/10/2015 9:45,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/11/2015 17:15,5/11/2015 17:15,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/11/2015 17:15,5/11/2015 17:15,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/12/2015 19:45,5/12/2015 19:45,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/13/2015 10:45,5/13/2015 10:45,16,debit,Travel,entertainment
+900350652,Roger Ahrens,2015,5,5/14/2015 10:45,5/14/2015 10:45,16,debit,Travel,entertainment
+900350652,Roger Ahrens,2015,5,5/14/2015 9:45,5/14/2015 9:45,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/15/2015 17:15,5/15/2015 17:15,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/15/2015 9:45,5/15/2015 9:45,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/15/2015 19:45,5/15/2015 19:45,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/16/2015 9:45,5/16/2015 9:45,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/16/2015 9:45,5/16/2015 9:45,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/19/2015 19:45,5/19/2015 19:45,16,debit,Travel,entertainment
+900350652,Roger Ahrens,2015,5,5/19/2015 23:45,5/19/2015 23:45,16,debit,Travel,entertainment
+900350652,Roger Ahrens,2015,5,5/19/2015 23:45,5/19/2015 23:45,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/20/2015 9:45,5/20/2015 9:45,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/22/2015 23:45,5/22/2015 23:45,80,debit,iNox,entertainment
+900350652,Roger Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,16,debit,Travel,entertainment
+900350652,Roger Ahrens,2015,5,5/26/2015 17:15,5/26/2015 17:15,16,debit,Travel,entertainment
+900350652,Roger Ahrens,2015,5,5/27/2015 19:45,5/27/2015 19:45,116,debit,sainsbury,grocery
+900350652,Roger Ahrens,2015,5,5/28/2015 23:45,5/28/2015 23:45,105,debit,Coscto,grocery
+900350652,Roger Ahrens,2015,5,5/28/2015 23:45,5/28/2015 23:45,1191,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/28/2015 10:45,5/28/2015 10:45,13,debit,savings account,savings
+900350652,Roger Ahrens,2015,5,5/28/2015 17:15,5/28/2015 17:15,13,debit,savings account,savings
+900070433,Jaime Ahrens,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+900070433,Jaime Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,110,debit,Jewel,grocery
+900070433,Jaime Ahrens,2015,5,5/3/2015 9:45,5/3/2015 9:45,80,debit,iNox,entertainment
+900070433,Jaime Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,40,debit,electricity,utility
+900070433,Jaime Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,60,debit,internet,utility
+900070433,Jaime Ahrens,2015,5,5/6/2015 19:45,5/6/2015 19:45,107,debit,Coscto,grocery
+900070433,Jaime Ahrens,2015,5,5/9/2015 10:45,5/9/2015 10:45,17,debit,Travel,entertainment
+900070433,Jaime Ahrens,2015,5,5/9/2015 19:45,5/9/2015 19:45,70,debit,Broncos,entertainment
+900070433,Jaime Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,80,debit,iNox,entertainment
+900070433,Jaime Ahrens,2015,5,5/14/2015 19:45,5/14/2015 19:45,105,debit,sainsbury,grocery
+900070433,Jaime Ahrens,2015,5,5/14/2015 23:45,5/14/2015 23:45,70,debit,Broncos,entertainment
+900070433,Jaime Ahrens,2015,5,5/14/2015 19:45,5/14/2015 19:45,80,debit,iNox,entertainment
+900070433,Jaime Ahrens,2015,5,5/16/2015 23:45,5/16/2015 23:45,17,debit,Travel,entertainment
+900070433,Jaime Ahrens,2015,5,5/17/2015 10:45,5/17/2015 10:45,70,debit,Broncos,entertainment
+900070433,Jaime Ahrens,2015,5,5/18/2015 9:45,5/18/2015 9:45,70,debit,Broncos,entertainment
+900070433,Jaime Ahrens,2015,5,5/19/2015 10:45,5/19/2015 10:45,80,debit,iNox,entertainment
+900070433,Jaime Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,17,debit,Travel,entertainment
+900070433,Jaime Ahrens,2015,5,5/22/2015 19:45,5/22/2015 19:45,17,debit,Travel,entertainment
+900070433,Jaime Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,70,debit,Broncos,entertainment
+900070433,Jaime Ahrens,2015,5,5/25/2015 9:45,5/25/2015 9:45,103,debit,savings account,savings
+900070433,Jaime Ahrens,2015,5,5/25/2015 19:45,5/25/2015 19:45,40,debit,Starbucks,entertainment
+900070433,Jaime Ahrens,2015,5,5/26/2015 23:45,5/26/2015 23:45,107,debit,Food Bazaar,grocery
+900070433,Jaime Ahrens,2015,5,5/28/2015 17:15,5/28/2015 17:15,107,debit,Jewel,grocery
+900960614,Michael Ahrens,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+900960614,Michael Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,40,debit,electricity,utility
+900960614,Michael Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,60,debit,internet,utility
+900960614,Michael Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,70,debit,Broncos,entertainment
+900960614,Michael Ahrens,2015,5,5/7/2015 19:45,5/7/2015 19:45,117,debit,Jewel,grocery
+900960614,Michael Ahrens,2015,5,5/10/2015 23:45,5/10/2015 23:45,101,debit,Coscto,grocery
+900960614,Michael Ahrens,2015,5,5/10/2015 9:45,5/10/2015 9:45,80,debit,iNox,entertainment
+900960614,Michael Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,80,debit,iNox,entertainment
+900960614,Michael Ahrens,2015,5,5/15/2015 17:15,5/15/2015 17:15,70,debit,Broncos,entertainment
+900960614,Michael Ahrens,2015,5,5/16/2015 23:45,5/16/2015 23:45,80,debit,iNox,entertainment
+900960614,Michael Ahrens,2015,5,5/17/2015 19:45,5/17/2015 19:45,70,debit,Broncos,entertainment
+900960614,Michael Ahrens,2015,5,5/20/2015 10:45,5/20/2015 10:45,80,debit,iNox,entertainment
+900960614,Michael Ahrens,2015,5,5/20/2015 23:45,5/20/2015 23:45,70,debit,Broncos,entertainment
+900960614,Michael Ahrens,2015,5,5/21/2015 10:45,5/21/2015 10:45,114,debit,Jewel,grocery
+900960614,Michael Ahrens,2015,5,5/22/2015 17:15,5/22/2015 17:15,40,debit,Starbucks,entertainment
+900960614,Michael Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,40,debit,Starbucks,entertainment
+900960614,Michael Ahrens,2015,5,5/24/2015 10:45,5/24/2015 10:45,101,debit,sainsbury,grocery
+900960614,Michael Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,70,debit,Broncos,entertainment
+900960614,Michael Ahrens,2015,5,5/26/2015 23:45,5/26/2015 23:45,283,debit,savings account,savings
+700860757,Carolyn Ahrens,2015,5,5/1/2015 17:15,5/1/2015 17:15,2083,credit,Company,salary
+700860757,Carolyn Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,102,debit,sainsbury,grocery
+700860757,Carolyn Ahrens,2015,5,5/3/2015 17:15,5/3/2015 17:15,80,debit,iNox,entertainment
+700860757,Carolyn Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,40,debit,electricity,utility
+700860757,Carolyn Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,80,debit,iNox,entertainment
+700860757,Carolyn Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,60,debit,internet,utility
+700860757,Carolyn Ahrens,2015,5,5/8/2015 9:45,5/8/2015 9:45,20,debit,Travel,entertainment
+700860757,Carolyn Ahrens,2015,5,5/9/2015 9:45,5/9/2015 9:45,113,debit,Coscto,grocery
+700860757,Carolyn Ahrens,2015,5,5/10/2015 23:45,5/10/2015 23:45,19,debit,savings account,savings
+700860757,Carolyn Ahrens,2015,5,5/11/2015 19:45,5/11/2015 19:45,114,debit,Food Bazaar,grocery
+700860757,Carolyn Ahrens,2015,5,5/11/2015 9:45,5/11/2015 9:45,106,debit,Food Bazaar,grocery
+700860757,Carolyn Ahrens,2015,5,5/12/2015 10:45,5/12/2015 10:45,114,debit,Coscto,grocery
+700860757,Carolyn Ahrens,2015,5,5/14/2015 10:45,5/14/2015 10:45,20,debit,Travel,entertainment
+700860757,Carolyn Ahrens,2015,5,5/19/2015 10:45,5/19/2015 10:45,80,debit,iNox,entertainment
+700860757,Carolyn Ahrens,2015,5,5/19/2015 10:45,5/19/2015 10:45,80,debit,iNox,entertainment
+700860757,Carolyn Ahrens,2015,5,5/19/2015 9:45,5/19/2015 9:45,20,debit,Travel,entertainment
+700860757,Carolyn Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,20,debit,Travel,entertainment
+700860757,Carolyn Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,20,debit,Travel,entertainment
+700860757,Carolyn Ahrens,2015,5,5/24/2015 9:45,5/24/2015 9:45,104,debit,sainsbury,grocery
+700860757,Carolyn Ahrens,2015,5,5/25/2015 19:45,5/25/2015 19:45,20,debit,Travel,entertainment
+700860757,Carolyn Ahrens,2015,5,5/26/2015 10:45,5/26/2015 10:45,665,debit,savings account,savings
+700860757,Carolyn Ahrens,2015,5,5/26/2015 19:45,5/26/2015 19:45,20,debit,Travel,entertainment
+700860757,Carolyn Ahrens,2015,5,5/27/2015 9:45,5/27/2015 9:45,20,debit,Travel,entertainment
+300590823,Thomas Ahrens,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+300590823,Thomas Ahrens,2015,5,5/4/2015 10:45,5/4/2015 10:45,60,debit,internet,utility
+300590823,Thomas Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,113,debit,Food Bazaar,grocery
+300590823,Thomas Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,40,debit,electricity,utility
+300590823,Thomas Ahrens,2015,5,5/9/2015 23:45,5/9/2015 23:45,40,debit,Starbucks,entertainment
+300590823,Thomas Ahrens,2015,5,5/10/2015 19:45,5/10/2015 19:45,101,debit,Jewel,grocery
+300590823,Thomas Ahrens,2015,5,5/12/2015 19:45,5/12/2015 19:45,109,debit,sainsbury,grocery
+300590823,Thomas Ahrens,2015,5,5/14/2015 23:45,5/14/2015 23:45,116,debit,Food Bazaar,grocery
+300590823,Thomas Ahrens,2015,5,5/14/2015 10:45,5/14/2015 10:45,70,debit,Broncos,entertainment
+300590823,Thomas Ahrens,2015,5,5/16/2015 19:45,5/16/2015 19:45,70,debit,Broncos,entertainment
+300590823,Thomas Ahrens,2015,5,5/17/2015 10:45,5/17/2015 10:45,40,debit,Starbucks,entertainment
+300590823,Thomas Ahrens,2015,5,5/18/2015 10:45,5/18/2015 10:45,80,debit,iNox,entertainment
+300590823,Thomas Ahrens,2015,5,5/19/2015 23:45,5/19/2015 23:45,80,debit,iNox,entertainment
+300590823,Thomas Ahrens,2015,5,5/21/2015 19:45,5/21/2015 19:45,80,debit,iNox,entertainment
+300590823,Thomas Ahrens,2015,5,5/25/2015 9:45,5/25/2015 9:45,306,debit,savings account,savings
+300590823,Thomas Ahrens,2015,5,5/26/2015 17:15,5/26/2015 17:15,80,debit,iNox,entertainment
+300590823,Thomas Ahrens,2015,5,5/27/2015 23:45,5/27/2015 23:45,106,debit,Food Bazaar,grocery
+700830688,Danielle Ahrens,2015,5,5/1/2015 23:45,5/1/2015 23:45,1666,credit,Company,salary
+700830688,Danielle Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,14,debit,savings account,savings
+700830688,Danielle Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,60,debit,internet,utility
+700830688,Danielle Ahrens,2015,5,5/4/2015 9:45,5/4/2015 9:45,17,debit,Travel,entertainment
+700830688,Danielle Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,40,debit,electricity,utility
+700830688,Danielle Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,80,debit,iNox,entertainment
+700830688,Danielle Ahrens,2015,5,5/6/2015 9:45,5/6/2015 9:45,80,debit,iNox,entertainment
+700830688,Danielle Ahrens,2015,5,5/12/2015 23:45,5/12/2015 23:45,14,debit,savings account,savings
+700830688,Danielle Ahrens,2015,5,5/13/2015 10:45,5/13/2015 10:45,80,debit,iNox,entertainment
+700830688,Danielle Ahrens,2015,5,5/16/2015 17:15,5/16/2015 17:15,115,debit,Jewel,grocery
+700830688,Danielle Ahrens,2015,5,5/18/2015 23:45,5/18/2015 23:45,14,debit,savings account,savings
+700830688,Danielle Ahrens,2015,5,5/18/2015 19:45,5/18/2015 19:45,80,debit,iNox,entertainment
+700830688,Danielle Ahrens,2015,5,5/19/2015 17:15,5/19/2015 17:15,103,debit,Coscto,grocery
+700830688,Danielle Ahrens,2015,5,5/19/2015 19:45,5/19/2015 19:45,112,debit,Food Bazaar,grocery
+700830688,Danielle Ahrens,2015,5,5/20/2015 9:45,5/20/2015 9:45,14,debit,savings account,savings
+700830688,Danielle Ahrens,2015,5,5/22/2015 9:45,5/22/2015 9:45,80,debit,iNox,entertainment
+700830688,Danielle Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,14,debit,savings account,savings
+700830688,Danielle Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,17,debit,Travel,entertainment
+700830688,Danielle Ahrens,2015,5,5/25/2015 19:45,5/25/2015 19:45,14,debit,savings account,savings
+700830688,Danielle Ahrens,2015,5,5/27/2015 9:45,5/27/2015 9:45,618,debit,savings account,savings
+700830688,Danielle Ahrens,2015,5,5/27/2015 10:45,5/27/2015 10:45,17,debit,Travel,entertainment
+210078,Jessica Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,1666,credit,Company,salary
+210078,Jessica Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,40,debit,electricity,utility
+210078,Jessica Ahrens,2015,5,5/3/2015 10:45,5/3/2015 10:45,110,debit,sainsbury,grocery
+210078,Jessica Ahrens,2015,5,5/4/2015 10:45,5/4/2015 10:45,60,debit,internet,utility
+210078,Jessica Ahrens,2015,5,5/5/2015 17:15,5/5/2015 17:15,80,debit,iNox,entertainment
+210078,Jessica Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,80,debit,iNox,entertainment
+210078,Jessica Ahrens,2015,5,5/6/2015 17:15,5/6/2015 17:15,102,debit,Coscto,grocery
+210078,Jessica Ahrens,2015,5,5/7/2015 19:45,5/7/2015 19:45,40,debit,Starbucks,entertainment
+210078,Jessica Ahrens,2015,5,5/13/2015 9:45,5/13/2015 9:45,109,debit,Coscto,grocery
+210078,Jessica Ahrens,2015,5,5/14/2015 19:45,5/14/2015 19:45,80,debit,iNox,entertainment
+210078,Jessica Ahrens,2015,5,5/16/2015 9:45,5/16/2015 9:45,70,debit,Broncos,entertainment
+210078,Jessica Ahrens,2015,5,5/17/2015 23:45,5/17/2015 23:45,70,debit,Broncos,entertainment
+210078,Jessica Ahrens,2015,5,5/17/2015 9:45,5/17/2015 9:45,70,debit,Broncos,entertainment
+210078,Jessica Ahrens,2015,5,5/21/2015 19:45,5/21/2015 19:45,80,debit,iNox,entertainment
+210078,Jessica Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,40,debit,Starbucks,entertainment
+210078,Jessica Ahrens,2015,5,5/26/2015 17:15,5/26/2015 17:15,40,debit,Starbucks,entertainment
+210078,Jessica Ahrens,2015,5,5/26/2015 10:45,5/26/2015 10:45,80,debit,iNox,entertainment
+210078,Jessica Ahrens,2015,5,5/27/2015 9:45,5/27/2015 9:45,119,debit,Food Bazaar,grocery
+210078,Jessica Ahrens,2015,5,5/27/2015 10:45,5/27/2015 10:45,281,debit,savings account,savings
+300300923,William Ahrens,2015,5,5/1/2015 23:45,5/1/2015 23:45,1666,credit,Company,salary
+300300923,William Ahrens,2015,5,5/3/2015 9:45,5/3/2015 9:45,40,debit,electricity,utility
+300300923,William Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,60,debit,internet,utility
+300300923,William Ahrens,2015,5,5/4/2015 9:45,5/4/2015 9:45,105,debit,sainsbury,grocery
+300300923,William Ahrens,2015,5,5/6/2015 17:15,5/6/2015 17:15,80,debit,iNox,entertainment
+300300923,William Ahrens,2015,5,5/8/2015 9:45,5/8/2015 9:45,40,debit,Starbucks,entertainment
+300300923,William Ahrens,2015,5,5/8/2015 10:45,5/8/2015 10:45,40,debit,Starbucks,entertainment
+300300923,William Ahrens,2015,5,5/13/2015 10:45,5/13/2015 10:45,40,debit,Starbucks,entertainment
+300300923,William Ahrens,2015,5,5/15/2015 9:45,5/15/2015 9:45,40,debit,Starbucks,entertainment
+300300923,William Ahrens,2015,5,5/15/2015 17:15,5/15/2015 17:15,40,debit,Starbucks,entertainment
+300300923,William Ahrens,2015,5,5/18/2015 17:15,5/18/2015 17:15,80,debit,iNox,entertainment
+300300923,William Ahrens,2015,5,5/18/2015 9:45,5/18/2015 9:45,80,debit,iNox,entertainment
+300300923,William Ahrens,2015,5,5/21/2015 9:45,5/21/2015 9:45,70,debit,Broncos,entertainment
+300300923,William Ahrens,2015,5,5/21/2015 9:45,5/21/2015 9:45,70,debit,Broncos,entertainment
+300300923,William Ahrens,2015,5,5/22/2015 10:45,5/22/2015 10:45,70,debit,Broncos,entertainment
+300300923,William Ahrens,2015,5,5/23/2015 10:45,5/23/2015 10:45,80,debit,iNox,entertainment
+300300923,William Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,80,debit,iNox,entertainment
+300300923,William Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,80,debit,iNox,entertainment
+300300923,William Ahrens,2015,5,5/26/2015 9:45,5/26/2015 9:45,102,debit,sainsbury,grocery
+300300923,William Ahrens,2015,5,5/28/2015 19:45,5/28/2015 19:45,407,debit,savings account,savings
+100730196,Sidney Ahrens,2015,5,5/1/2015 9:45,5/1/2015 9:45,1666,credit,Company,salary
+100730196,Sidney Ahrens,2015,5,5/2/2015 17:15,5/2/2015 17:15,18,debit,savings account,savings
+100730196,Sidney Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,115,debit,Jewel,grocery
+100730196,Sidney Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,40,debit,electricity,utility
+100730196,Sidney Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,60,debit,internet,utility
+100730196,Sidney Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,18,debit,savings account,savings
+100730196,Sidney Ahrens,2015,5,5/5/2015 10:45,5/5/2015 10:45,18,debit,savings account,savings
+100730196,Sidney Ahrens,2015,5,5/7/2015 10:45,5/7/2015 10:45,112,debit,Coscto,grocery
+100730196,Sidney Ahrens,2015,5,5/8/2015 10:45,5/8/2015 10:45,16,debit,Travel,entertainment
+100730196,Sidney Ahrens,2015,5,5/9/2015 19:45,5/9/2015 19:45,16,debit,Travel,entertainment
+100730196,Sidney Ahrens,2015,5,5/10/2015 23:45,5/10/2015 23:45,105,debit,sainsbury,grocery
+100730196,Sidney Ahrens,2015,5,5/14/2015 23:45,5/14/2015 23:45,80,debit,iNox,entertainment
+100730196,Sidney Ahrens,2015,5,5/14/2015 9:45,5/14/2015 9:45,16,debit,Travel,entertainment
+100730196,Sidney Ahrens,2015,5,5/19/2015 23:45,5/19/2015 23:45,101,debit,Coscto,grocery
+100730196,Sidney Ahrens,2015,5,5/21/2015 19:45,5/21/2015 19:45,80,debit,iNox,entertainment
+100730196,Sidney Ahrens,2015,5,5/21/2015 9:45,5/21/2015 9:45,16,debit,Travel,entertainment
+100730196,Sidney Ahrens,2015,5,5/25/2015 10:45,5/25/2015 10:45,566,debit,savings account,savings
+100730196,Sidney Ahrens,2015,5,5/27/2015 19:45,5/27/2015 19:45,16,debit,Travel,entertainment
+900880727,John Ahrens,2015,5,5/1/2015 9:45,5/1/2015 9:45,1666,credit,Company,salary
+900880727,John Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,40,debit,Starbucks,entertainment
+900880727,John Ahrens,2015,5,5/3/2015 17:15,5/3/2015 17:15,80,debit,iNox,entertainment
+900880727,John Ahrens,2015,5,5/5/2015 19:45,5/5/2015 19:45,40,debit,electricity,utility
+900880727,John Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,60,debit,internet,utility
+900880727,John Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,70,debit,Broncos,entertainment
+900880727,John Ahrens,2015,5,5/14/2015 9:45,5/14/2015 9:45,70,debit,Broncos,entertainment
+900880727,John Ahrens,2015,5,5/15/2015 10:45,5/15/2015 10:45,80,debit,iNox,entertainment
+900880727,John Ahrens,2015,5,5/19/2015 10:45,5/19/2015 10:45,70,debit,Broncos,entertainment
+900880727,John Ahrens,2015,5,5/21/2015 23:45,5/21/2015 23:45,108,debit,sainsbury,grocery
+900880727,John Ahrens,2015,5,5/25/2015 9:45,5/25/2015 9:45,676,debit,savings account,savings
+900880727,John Ahrens,2015,5,5/26/2015 9:45,5/26/2015 9:45,80,debit,iNox,entertainment
+900880727,John Ahrens,2015,5,5/28/2015 23:45,5/28/2015 23:45,106,debit,Jewel,grocery
+900880727,John Ahrens,2015,5,5/28/2015 19:45,5/28/2015 19:45,70,debit,Broncos,entertainment
+850385,Scott Ahrens,2015,5,5/1/2015 10:45,5/1/2015 10:45,1666,credit,Company,salary
+850385,Scott Ahrens,2015,5,5/2/2015 17:15,5/2/2015 17:15,40,debit,electricity,utility
+850385,Scott Ahrens,2015,5,5/2/2015 10:45,5/2/2015 10:45,60,debit,internet,utility
+850385,Scott Ahrens,2015,5,5/2/2015 9:45,5/2/2015 9:45,80,debit,iNox,entertainment
+850385,Scott Ahrens,2015,5,5/3/2015 19:45,5/3/2015 19:45,20,debit,Travel,entertainment
+850385,Scott Ahrens,2015,5,5/4/2015 17:15,5/4/2015 17:15,11,debit,Cash savings,savings
+850385,Scott Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,11,debit,Cash savings,savings
+850385,Scott Ahrens,2015,5,5/7/2015 23:45,5/7/2015 23:45,11,debit,Cash savings,savings
+850385,Scott Ahrens,2015,5,5/10/2015 23:45,5/10/2015 23:45,11,debit,Cash savings,savings
+850385,Scott Ahrens,2015,5,5/11/2015 23:45,5/11/2015 23:45,20,debit,Travel,entertainment
+850385,Scott Ahrens,2015,5,5/13/2015 23:45,5/13/2015 23:45,20,debit,Travel,entertainment
+850385,Scott Ahrens,2015,5,5/14/2015 23:45,5/14/2015 23:45,11,debit,Cash savings,savings
+850385,Scott Ahrens,2015,5,5/15/2015 10:45,5/15/2015 10:45,102,debit,Coscto,grocery
+850385,Scott Ahrens,2015,5,5/15/2015 9:45,5/15/2015 9:45,80,debit,iNox,entertainment
+850385,Scott Ahrens,2015,5,5/16/2015 19:45,5/16/2015 19:45,20,debit,Travel,entertainment
+850385,Scott Ahrens,2015,5,5/17/2015 19:45,5/17/2015 19:45,101,debit,Coscto,grocery
+850385,Scott Ahrens,2015,5,5/17/2015 19:45,5/17/2015 19:45,80,debit,iNox,entertainment
+850385,Scott Ahrens,2015,5,5/21/2015 23:45,5/21/2015 23:45,20,debit,Travel,entertainment
+850385,Scott Ahrens,2015,5,5/21/2015 9:45,5/21/2015 9:45,20,debit,Travel,entertainment
+850385,Scott Ahrens,2015,5,5/23/2015 10:45,5/23/2015 10:45,80,debit,iNox,entertainment
+850385,Scott Ahrens,2015,5,5/23/2015 17:15,5/23/2015 17:15,11,debit,Cash savings,savings
+850385,Scott Ahrens,2015,5,5/24/2015 17:15,5/24/2015 17:15,11,debit,Cash savings,savings
+850385,Scott Ahrens,2015,5,5/25/2015 19:45,5/25/2015 19:45,681,debit,savings account,savings
+850385,Scott Ahrens,2015,5,5/26/2015 10:45,5/26/2015 10:45,11,debit,Cash savings,savings
+850385,Scott Ahrens,2015,5,5/26/2015 10:45,5/26/2015 10:45,20,debit,Travel,entertainment
+850385,Scott Ahrens,2015,5,5/26/2015 17:15,5/26/2015 17:15,80,debit,iNox,entertainment
+400180563,Kelly Ahrens,2015,5,5/1/2015 9:45,5/1/2015 9:45,2083,credit,Company,salary
+400180563,Kelly Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,18,debit,savings account,savings
+400180563,Kelly Ahrens,2015,5,5/4/2015 9:45,5/4/2015 9:45,40,debit,electricity,utility
+400180563,Kelly Ahrens,2015,5,5/4/2015 10:45,5/4/2015 10:45,60,debit,internet,utility
+400180563,Kelly Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,18,debit,Travel,entertainment
+400180563,Kelly Ahrens,2015,5,5/5/2015 9:45,5/5/2015 9:45,18,debit,Travel,entertainment
+400180563,Kelly Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,80,debit,iNox,entertainment
+400180563,Kelly Ahrens,2015,5,5/8/2015 10:45,5/8/2015 10:45,18,debit,Travel,entertainment
+400180563,Kelly Ahrens,2015,5,5/8/2015 19:45,5/8/2015 19:45,18,debit,savings account,savings
+400180563,Kelly Ahrens,2015,5,5/9/2015 19:45,5/9/2015 19:45,80,debit,iNox,entertainment
+400180563,Kelly Ahrens,2015,5,5/10/2015 10:45,5/10/2015 10:45,18,debit,Travel,entertainment
+400180563,Kelly Ahrens,2015,5,5/11/2015 23:45,5/11/2015 23:45,120,debit,Jewel,grocery
+400180563,Kelly Ahrens,2015,5,5/12/2015 9:45,5/12/2015 9:45,18,debit,Travel,entertainment
+400180563,Kelly Ahrens,2015,5,5/12/2015 9:45,5/12/2015 9:45,18,debit,savings account,savings
+400180563,Kelly Ahrens,2015,5,5/13/2015 17:15,5/13/2015 17:15,110,debit,sainsbury,grocery
+400180563,Kelly Ahrens,2015,5,5/14/2015 10:45,5/14/2015 10:45,80,debit,iNox,entertainment
+400180563,Kelly Ahrens,2015,5,5/14/2015 9:45,5/14/2015 9:45,80,debit,iNox,entertainment
+400180563,Kelly Ahrens,2015,5,5/15/2015 23:45,5/15/2015 23:45,80,debit,iNox,entertainment
+400180563,Kelly Ahrens,2015,5,5/18/2015 10:45,5/18/2015 10:45,80,debit,iNox,entertainment
+400180563,Kelly Ahrens,2015,5,5/22/2015 9:45,5/22/2015 9:45,101,debit,Jewel,grocery
+400180563,Kelly Ahrens,2015,5,5/26/2015 9:45,5/26/2015 9:45,112,debit,Coscto,grocery
+400180563,Kelly Ahrens,2015,5,5/26/2015 19:45,5/26/2015 19:45,18,debit,savings account,savings
+400180563,Kelly Ahrens,2015,5,5/27/2015 17:15,5/27/2015 17:15,770,debit,savings account,savings
+950689,Colleen Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,1666,credit,Company,salary
+950689,Colleen Ahrens,2015,5,5/3/2015 9:45,5/3/2015 9:45,109,debit,sainsbury,grocery
+950689,Colleen Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,113,debit,Jewel,grocery
+950689,Colleen Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,40,debit,electricity,utility
+950689,Colleen Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,60,debit,internet,utility
+950689,Colleen Ahrens,2015,5,5/10/2015 9:45,5/10/2015 9:45,40,debit,Starbucks,entertainment
+950689,Colleen Ahrens,2015,5,5/10/2015 17:15,5/10/2015 17:15,40,debit,Starbucks,entertainment
+950689,Colleen Ahrens,2015,5,5/13/2015 19:45,5/13/2015 19:45,80,debit,iNox,entertainment
+950689,Colleen Ahrens,2015,5,5/13/2015 10:45,5/13/2015 10:45,40,debit,Starbucks,entertainment
+950689,Colleen Ahrens,2015,5,5/15/2015 17:15,5/15/2015 17:15,70,debit,Broncos,entertainment
+950689,Colleen Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,119,debit,Coscto,grocery
+950689,Colleen Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,70,debit,Broncos,entertainment
+950689,Colleen Ahrens,2015,5,5/21/2015 23:45,5/21/2015 23:45,80,debit,iNox,entertainment
+950689,Colleen Ahrens,2015,5,5/25/2015 17:15,5/25/2015 17:15,448,debit,savings account,savings
+950689,Colleen Ahrens,2015,5,5/25/2015 23:45,5/25/2015 23:45,70,debit,Broncos,entertainment
+950689,Colleen Ahrens,2015,5,5/26/2015 9:45,5/26/2015 9:45,104,debit,Jewel,grocery
+950689,Colleen Ahrens,2015,5,5/26/2015 23:45,5/26/2015 23:45,40,debit,Starbucks,entertainment
+950689,Colleen Ahrens,2015,5,5/28/2015 9:45,5/28/2015 9:45,70,debit,Broncos,entertainment
+900800816,Stephen Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,1666,credit,Company,salary
+900800816,Stephen Ahrens,2015,5,5/2/2015 9:45,5/2/2015 9:45,40,debit,electricity,utility
+900800816,Stephen Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,60,debit,internet,utility
+900800816,Stephen Ahrens,2015,5,5/4/2015 10:45,5/4/2015 10:45,70,debit,Broncos,entertainment
+900800816,Stephen Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,80,debit,iNox,entertainment
+900800816,Stephen Ahrens,2015,5,5/6/2015 23:45,5/6/2015 23:45,80,debit,iNox,entertainment
+900800816,Stephen Ahrens,2015,5,5/7/2015 23:45,5/7/2015 23:45,80,debit,iNox,entertainment
+900800816,Stephen Ahrens,2015,5,5/7/2015 19:45,5/7/2015 19:45,40,debit,Starbucks,entertainment
+900800816,Stephen Ahrens,2015,5,5/8/2015 10:45,5/8/2015 10:45,70,debit,Broncos,entertainment
+900800816,Stephen Ahrens,2015,5,5/13/2015 19:45,5/13/2015 19:45,40,debit,Starbucks,entertainment
+900800816,Stephen Ahrens,2015,5,5/14/2015 19:45,5/14/2015 19:45,104,debit,Food Bazaar,grocery
+900800816,Stephen Ahrens,2015,5,5/16/2015 10:45,5/16/2015 10:45,110,debit,sainsbury,grocery
+900800816,Stephen Ahrens,2015,5,5/20/2015 10:45,5/20/2015 10:45,80,debit,iNox,entertainment
+900800816,Stephen Ahrens,2015,5,5/20/2015 23:45,5/20/2015 23:45,70,debit,Broncos,entertainment
+900800816,Stephen Ahrens,2015,5,5/22/2015 17:15,5/22/2015 17:15,40,debit,Starbucks,entertainment
+900800816,Stephen Ahrens,2015,5,5/24/2015 17:15,5/24/2015 17:15,110,debit,Jewel,grocery
+900800816,Stephen Ahrens,2015,5,5/25/2015 10:45,5/25/2015 10:45,453,debit,savings account,savings
+900800816,Stephen Ahrens,2015,5,5/26/2015 17:15,5/26/2015 17:15,109,debit,Coscto,grocery
+800110747,Vivian Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,1666,credit,Company,salary
+800110747,Vivian Ahrens,2015,5,5/2/2015 9:45,5/2/2015 9:45,40,debit,electricity,utility
+800110747,Vivian Ahrens,2015,5,5/2/2015 10:45,5/2/2015 10:45,60,debit,internet,utility
+800110747,Vivian Ahrens,2015,5,5/2/2015 9:45,5/2/2015 9:45,118,debit,sainsbury,grocery
+800110747,Vivian Ahrens,2015,5,5/3/2015 23:45,5/3/2015 23:45,80,debit,iNox,entertainment
+800110747,Vivian Ahrens,2015,5,5/7/2015 23:45,5/7/2015 23:45,102,debit,Jewel,grocery
+800110747,Vivian Ahrens,2015,5,5/9/2015 17:15,5/9/2015 17:15,104,debit,Jewel,grocery
+800110747,Vivian Ahrens,2015,5,5/9/2015 10:45,5/9/2015 10:45,70,debit,Broncos,entertainment
+800110747,Vivian Ahrens,2015,5,5/11/2015 10:45,5/11/2015 10:45,80,debit,iNox,entertainment
+800110747,Vivian Ahrens,2015,5,5/20/2015 9:45,5/20/2015 9:45,112,debit,Coscto,grocery
+800110747,Vivian Ahrens,2015,5,5/24/2015 9:45,5/24/2015 9:45,107,debit,Food Bazaar,grocery
+800110747,Vivian Ahrens,2015,5,5/24/2015 9:45,5/24/2015 9:45,40,debit,Starbucks,entertainment
+800110747,Vivian Ahrens,2015,5,5/28/2015 17:15,5/28/2015 17:15,511,debit,savings account,savings
+100930439,Steven Ahrens,2015,5,5/1/2015 23:45,5/1/2015 23:45,1666,credit,Company,salary
+100930439,Steven Ahrens,2015,5,5/2/2015 17:15,5/2/2015 17:15,40,debit,Starbucks,entertainment
+100930439,Steven Ahrens,2015,5,5/3/2015 9:45,5/3/2015 9:45,40,debit,electricity,utility
+100930439,Steven Ahrens,2015,5,5/3/2015 10:45,5/3/2015 10:45,111,debit,Jewel,grocery
+100930439,Steven Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,60,debit,internet,utility
+100930439,Steven Ahrens,2015,5,5/4/2015 10:45,5/4/2015 10:45,70,debit,Broncos,entertainment
+100930439,Steven Ahrens,2015,5,5/8/2015 10:45,5/8/2015 10:45,116,debit,Food Bazaar,grocery
+100930439,Steven Ahrens,2015,5,5/8/2015 10:45,5/8/2015 10:45,120,debit,sainsbury,grocery
+100930439,Steven Ahrens,2015,5,5/12/2015 23:45,5/12/2015 23:45,107,debit,Jewel,grocery
+100930439,Steven Ahrens,2015,5,5/13/2015 10:45,5/13/2015 10:45,70,debit,Broncos,entertainment
+100930439,Steven Ahrens,2015,5,5/14/2015 23:45,5/14/2015 23:45,114,debit,Food Bazaar,grocery
+100930439,Steven Ahrens,2015,5,5/16/2015 17:15,5/16/2015 17:15,101,debit,sainsbury,grocery
+100930439,Steven Ahrens,2015,5,5/16/2015 23:45,5/16/2015 23:45,80,debit,iNox,entertainment
+100930439,Steven Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,70,debit,Broncos,entertainment
+100930439,Steven Ahrens,2015,5,5/23/2015 23:45,5/23/2015 23:45,70,debit,Broncos,entertainment
+100930439,Steven Ahrens,2015,5,5/25/2015 10:45,5/25/2015 10:45,224,debit,savings account,savings
+100930439,Steven Ahrens,2015,5,5/25/2015 10:45,5/25/2015 10:45,40,debit,Starbucks,entertainment
+400590710,Heather Ahrens,2015,5,5/1/2015 23:45,5/1/2015 23:45,2083,credit,Company,salary
+400590710,Heather Ahrens,2015,5,5/2/2015 17:15,5/2/2015 17:15,111,debit,Jewel,grocery
+400590710,Heather Ahrens,2015,5,5/4/2015 23:45,5/4/2015 23:45,40,debit,electricity,utility
+400590710,Heather Ahrens,2015,5,5/4/2015 19:45,5/4/2015 19:45,60,debit,internet,utility
+400590710,Heather Ahrens,2015,5,5/6/2015 17:15,5/6/2015 17:15,101,debit,Jewel,grocery
+400590710,Heather Ahrens,2015,5,5/6/2015 23:45,5/6/2015 23:45,80,debit,iNox,entertainment
+400590710,Heather Ahrens,2015,5,5/9/2015 17:15,5/9/2015 17:15,114,debit,Jewel,grocery
+400590710,Heather Ahrens,2015,5,5/9/2015 9:45,5/9/2015 9:45,40,debit,Starbucks,entertainment
+400590710,Heather Ahrens,2015,5,5/10/2015 19:45,5/10/2015 19:45,70,debit,Broncos,entertainment
+400590710,Heather Ahrens,2015,5,5/13/2015 17:15,5/13/2015 17:15,40,debit,Starbucks,entertainment
+400590710,Heather Ahrens,2015,5,5/14/2015 10:45,5/14/2015 10:45,80,debit,iNox,entertainment
+400590710,Heather Ahrens,2015,5,5/15/2015 17:15,5/15/2015 17:15,40,debit,Starbucks,entertainment
+400590710,Heather Ahrens,2015,5,5/19/2015 19:45,5/19/2015 19:45,80,debit,iNox,entertainment
+400590710,Heather Ahrens,2015,5,5/20/2015 17:15,5/20/2015 17:15,80,debit,iNox,entertainment
+400590710,Heather Ahrens,2015,5,5/22/2015 10:45,5/22/2015 10:45,113,debit,sainsbury,grocery
+400590710,Heather Ahrens,2015,5,5/22/2015 9:45,5/22/2015 9:45,80,debit,iNox,entertainment
+400590710,Heather Ahrens,2015,5,5/23/2015 9:45,5/23/2015 9:45,104,debit,Jewel,grocery
+400590710,Heather Ahrens,2015,5,5/24/2015 10:45,5/24/2015 10:45,70,debit,Broncos,entertainment
+400590710,Heather Ahrens,2015,5,5/25/2015 19:45,5/25/2015 19:45,102,debit,Jewel,grocery
+400590710,Heather Ahrens,2015,5,5/27/2015 10:45,5/27/2015 10:45,80,debit,iNox,entertainment
+400590710,Heather Ahrens,2015,5,5/28/2015 9:45,5/28/2015 9:45,334,debit,savings account,savings
+400590710,Heather Ahrens,2015,5,5/28/2015 19:45,5/28/2015 19:45,40,debit,Starbucks,entertainment
+400590710,Heather Ahrens,2015,5,5/28/2015 10:45,5/28/2015 10:45,40,debit,Starbucks,entertainment
+400590710,Heather Ahrens,2015,5,5/28/2015 17:15,5/28/2015 17:15,40,debit,Starbucks,entertainment
+400590710,Heather Ahrens,2015,5,5/28/2015 19:45,5/28/2015 19:45,40,debit,Starbucks,entertainment
+300620350,Paul Ahrens,2015,5,5/1/2015 19:45,5/1/2015 19:45,2083,credit,Company,salary
+300620350,Paul Ahrens,2015,5,5/2/2015 23:45,5/2/2015 23:45,60,debit,internet,utility
+300620350,Paul Ahrens,2015,5,5/5/2015 23:45,5/5/2015 23:45,40,debit,electricity,utility
+300620350,Paul Ahrens,2015,5,5/6/2015 17:15,5/6/2015 17:15,108,debit,Jewel,grocery
+300620350,Paul Ahrens,2015,5,5/6/2015 23:45,5/6/2015 23:45,114,debit,Food Bazaar,grocery
+300620350,Paul Ahrens,2015,5,5/9/2015 9:45,5/9/2015 9:45,15,debit,savings account,savings
+300620350,Paul Ahrens,2015,5,5/9/2015 17:15,5/9/2015 17:15,80,debit,iNox,entertainment
+300620350,Paul Ahrens,2015,5,5/10/2015 19:45,5/10/2015 19:45,16,debit,Travel,entertainment
+300620350,Paul Ahrens,2015,5,5/13/2015 17:15,5/13/2015 17:15,16,debit,Travel,entertainment
+300620350,Paul Ahrens,2015,5,5/14/2015 17:15,5/14/2015 17:15,107,debit,Food Bazaar,grocery
+300620350,Paul Ahrens,2015,5,5/14/2015 9:45,5/14/2015 9:45,80,debit,iNox,entertainment
+300620350,Paul Ahrens,2015,5,5/16/2015 19:45,5/16/2015 19:45,80,debit,iNox,entertainment
+300620350,Paul Ahrens,2015,5,5/17/2015 9:45,5/17/2015 9:45,16,debit,Travel,entertainment
+300620350,Paul Ahrens,2015,5,5/20/2015 10:45,5/20/2015 10:45,80,debit,iNox,entertainment
